@@ -1,0 +1,607 @@
+{
+  "plugins": [
+    {
+      "pluginId": "AceJump",
+      "pluginName": "AceJump",
+      "downloadUrl": "https://github.com/acejump/AceJump",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Builder Generator",
+      "pluginName": "Builder Generator",
+      "downloadUrl": "https://github.com/mjedynak/Builder-Generator",
+      "dependencyPluginIds": [
+        "com.intellij"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "CMD Support",
+      "pluginName": "CMD Support",
+      "downloadUrl": "https://github.com/t3hnar/CmdSupport",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "CheckStyle-IDEA",
+      "pluginName": "CheckStyle-IDEA",
+      "downloadUrl": "https://github.com/jshiell/checkstyle-idea",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "ConsoleUrlLink",
+      "pluginName": "ConsoleUrlLink",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "GenerateSerialVersionUID",
+      "pluginName": "GenerateSerialVersionUID",
+      "downloadUrl": "http://plugins.intellij.net/plugin/?idea\u0026id\u003d185",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "GrepConsole",
+      "pluginName": "Grep Console",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "GsonFormat",
+      "pluginName": "GsonFormat",
+      "dependencyPluginIds": [
+        "com.intellij"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Key Promoter X",
+      "pluginName": "Key Promoter X",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Lombook Plugin",
+      "pluginName": "Lombok",
+      "downloadUrl": "https://github.com/mplushnikov/lombok-intellij-plugin",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.platform",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "String Manipulation",
+      "pluginName": "String Manipulation",
+      "downloadUrl": "https://github.com/krasa/StringManipulation",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "awesome.console",
+      "pluginName": "Awesome Console",
+      "downloadUrl": "https://github.com/anthraxx/intellij-awesome-console",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.codestream.jetbrains-codestream",
+      "pluginName": "CodeStream",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.github.camork.fileExpander",
+      "pluginName": "File Expander",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.godwin.json.parser",
+      "pluginName": "Json Parser",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.CloudConfig",
+      "pluginName": "IDE Settings Sync",
+      "dependencyPluginIds": [
+        "com.intellij.modules.ultimate"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "com.jinsihou.react.snippets",
+      "pluginName": "React snippets",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "in.thekalinga.snippet.intellij",
+      "pluginName": "Bootstrap 4, Font awesome 4, Font Awesome 5 Free \u0026 Pro live templates/snippets",
+      "downloadUrl": "https://github.com/1tontech/bootstrap4-snippets",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "leetcode-editor",
+      "pluginName": "leetcode editor",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "mobi.hsz.idea.gitignore",
+      "pluginName": ".ignore",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "Git4Idea",
+        "hg4idea"
+      ],
+      "optionalDependencyPluginIds": [
+        "Git4Idea",
+        "hg4idea"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "myBitbucket",
+      "pluginName": "myBitbucket",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "Git4Idea"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "nl.jworks.intellij.bootstrap3",
+      "pluginName": "Bootstrap 3",
+      "downloadUrl": "https://github.com/bodiam/intellij-bootstrap",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.android",
+      "pluginName": "Android Support",
+      "dependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "JRebelPlugin",
+      "pluginName": "JRebel for IntelliJ",
+      "downloadUrl": "http://www.zeroturnaround.com/jrebel/",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.javaee",
+        "WebSphere",
+        "Weblogic",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.javaee.view",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.javaee",
+        "WebSphere",
+        "Weblogic",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.javaee.view"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.plugins.gradle.maven",
+      "pluginName": "Gradle-Maven",
+      "dependencyPluginIds": [
+        "org.intellij.groovy",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "BashSupport",
+      "pluginName": "BashSupport",
+      "downloadUrl": "https://www.bashsupport.com/",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "org.intellij.intelliLang",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.intellij.intelliLang",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "isBundle": false,
+      "isEnable": false
+    },
+    {
+      "pluginId": "com.bruce.intellijplugin.generatesetter",
+      "pluginName": "GenerateAllSetter",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "org.jetbrains.kotlin",
+        "com.ccnode.codegenerator.MyBatisCodeHelperPro"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.kotlin",
+        "com.ccnode.codegenerator.MyBatisCodeHelperPro"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.codota.csp.intellij",
+      "pluginName": "Codota ",
+      "downloadUrl": "http://www.codota.com/plugins",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "JavaScript",
+        "com.intellij.modules.java",
+        "org.jetbrains.kotlin"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "JavaScript",
+        "com.intellij.modules.java",
+        "org.jetbrains.kotlin"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.lang.jsgraphql",
+      "pluginName": "JS GraphQL",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "JavaScript",
+        "org.intellij.intelliLang"
+      ],
+      "optionalDependencyPluginIds": [
+        "JavaScript",
+        "org.intellij.intelliLang"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.jetbrains.php",
+      "pluginName": "PHP",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.xml",
+        "com.intellij.css",
+        "com.intellij.modules.ultimate",
+        "com.intellij.java-i18n",
+        "com.intellij.diagram",
+        "com.intellij.modules.coverage",
+        "com.jetbrains.plugins.webDeployment",
+        "org.intellij.intelliLang",
+        "com.intellij.plugins.html.instantEditing",
+        "com.jetbrains.restClient",
+        "com.intellij.copyright",
+        "com.intellij.modules.duplicatesDetector"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.diagram",
+        "com.intellij.modules.coverage",
+        "com.jetbrains.plugins.webDeployment",
+        "org.intellij.intelliLang",
+        "com.intellij.plugins.html.instantEditing",
+        "com.jetbrains.restClient",
+        "com.intellij.copyright",
+        "com.intellij.modules.duplicatesDetector"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.wix.react-templates",
+      "pluginName": "React-Templates",
+      "downloadUrl": "https://github.com/idok/react-templates-plugin",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.lang",
+        "JavaScript"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.intellij.grails",
+      "pluginName": "Grails",
+      "dependencyPluginIds": [
+        "JavaScript",
+        "com.intellij.css",
+        "com.intellij.copyright",
+        "com.intellij.java-i18n",
+        "org.jetbrains.idea.maven",
+        "com.intellij.hibernate",
+        "org.intellij.intelliLang",
+        "com.intellij.modules.coverage",
+        "com.intellij.javaee",
+        "com.intellij.jsp",
+        "org.intellij.groovy",
+        "com.intellij.properties",
+        "com.intellij.spring",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.modules.ultimate"
+      ],
+      "optionalDependencyPluginIds": [
+        "JavaScript",
+        "com.intellij.css",
+        "com.intellij.copyright",
+        "com.intellij.java-i18n",
+        "org.jetbrains.idea.maven",
+        "com.intellij.hibernate",
+        "org.intellij.intelliLang",
+        "com.intellij.modules.coverage"
+      ],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "org.intellij.scala",
+      "pluginName": "Scala",
+      "downloadUrl": "https://confluence.jetbrains.com/display/SCA/Scala+Plugin+for+IntelliJ+IDEA",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.java",
+        "org.jetbrains.idea.maven",
+        "org.intellij.intelliLang",
+        "com.intellij.copyright",
+        "com.intellij.properties",
+        "org.jetbrains.plugins.gradle",
+        "DevKit",
+        "Coverage",
+        "com.intellij.persistence",
+        "com.intellij.modules.xml",
+        "com.intellij.modules.ultimate",
+        "com.intellij.css",
+        "JavaScript",
+        "JavaScriptDebugger",
+        "org.jetbrains.java.decompiler",
+        "com.jetbrains.performancePlugin",
+        "org.jetbrains.android"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.idea.maven",
+        "org.intellij.intelliLang",
+        "com.intellij.copyright",
+        "com.intellij.properties",
+        "org.jetbrains.plugins.gradle",
+        "DevKit",
+        "Coverage",
+        "com.intellij.persistence",
+        "com.intellij.modules.xml",
+        "com.intellij.modules.ultimate",
+        "com.intellij.css",
+        "JavaScript",
+        "JavaScriptDebugger",
+        "org.jetbrains.java.decompiler",
+        "com.jetbrains.performancePlugin",
+        "org.jetbrains.android"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "MavenRunHelper",
+      "pluginName": "Maven Helper",
+      "downloadUrl": "https://github.com/krasa/MavenHelper",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.plugins.terminal"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Pythonid",
+      "pluginName": "Python",
+      "downloadUrl": "https://confluence.jetbrains.com/display/PYH/",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.ultimate",
+        "com.intellij.modules.java",
+        "Coverage",
+        "org.jetbrains.plugins.yaml",
+        "com.intellij.modules.duplicatesDetector",
+        "com.intellij.diagram",
+        "JavaScriptDebugger",
+        "org.jetbrains.plugins.rest",
+        "org.jetbrains.plugins.localization",
+        "com.intellij.modules.database",
+        "org.jetbrains.plugins.remote-run",
+        "gherkin",
+        "org.jetbrains.plugins.wsl",
+        "org.intellij.intelliLang",
+        "Docker",
+        "org.intellij.plugins.markdown",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.duplicatesDetector",
+        "com.intellij.diagram",
+        "JavaScriptDebugger",
+        "org.jetbrains.plugins.rest",
+        "org.jetbrains.plugins.localization",
+        "com.intellij.modules.database",
+        "org.jetbrains.plugins.remote-run",
+        "gherkin",
+        "org.jetbrains.plugins.wsl",
+        "org.intellij.intelliLang",
+        "Docker",
+        "org.intellij.plugins.markdown",
+        "org.jetbrains.plugins.terminal"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.apache.camel",
+      "pluginName": "Apache Camel IDEA Plugin",
+      "downloadUrl": "https://github.com/camel-idea-plugin/camel-idea-plugin",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.modules.xml",
+        "com.intellij.properties",
+        "org.jetbrains.plugins.yaml"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.settingsRepository",
+      "pluginName": "Settings Repository",
+      "dependencyPluginIds": [
+        "com.intellij.modules.xml"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "training",
+      "pluginName": "IDE Features Trainer",
+      "dependencyPluginIds": [
+        "com.intellij",
+        "com.intellij.testGuiFramework",
+        "com.intellij.modules.java",
+        "com.intellij.modules.ruby",
+        "org.jetbrains.plugins.go",
+        "com.intellij.modules.cidr.lang"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.testGuiFramework",
+        "com.intellij.modules.java",
+        "com.intellij.modules.ruby",
+        "org.jetbrains.plugins.go",
+        "com.intellij.modules.cidr.lang"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    }
+  ]
+}
