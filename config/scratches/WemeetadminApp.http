@@ -1,0 +1,24 @@
+POST http://localhost:8080/api/boardgames/games/query
+
+{
+  "gameIds": [
+    4320
+  ]
+}
+
+###
+
+GET http://localhost:8080/api/boardgames/games/4320
+Accept: application/json
+
+<> 2025-02-09T205211.200.json
+
+###
+
+GET http://localhost:8080/ai/chat
+
+<> 2025-03-21T230355.200.html
+<> 2025-03-21T230323.200.html
+
+###
+

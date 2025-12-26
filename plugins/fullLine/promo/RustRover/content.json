@@ -1,0 +1,37 @@
+{
+  "local": [
+    {
+      "type": "image",
+      "id": "LocalCompletion"
+    }
+  ],
+  "cloud": [
+    {
+      "type": "image",
+      "id": "CloudCompletion"
+    },
+    {
+      "type": "video",
+      "id": "FixWithAI"
+    },
+    {
+      "type": "video",
+      "id": "CommandGenerationInTerminal"
+    },
+    {
+      "type": "image",
+      "id": "MergeWithAI"
+    },
+    {
+      "type": "video",
+      "id": "ContextAwareChat"
+    }
+  ],
+  "enterprise": [
+    {
+      "type": "video",
+      "id": "AIEnterprise",
+      "common": true
+    }
+  ]
+}

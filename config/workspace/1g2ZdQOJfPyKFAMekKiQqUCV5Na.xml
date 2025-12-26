@@ -1,0 +1,284 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="property-search-service" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="property-search-service" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/au/com/unohomeloans/property/service/impl/ids/IdsPropertySearchServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2304">
+              <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/au/com/unohomeloans/property/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1727084310527" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1727084192534" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1727084227043" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1727084310527" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1727084192535" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1727084227043" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java/au/com/unohomeloans/property}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java/au/com/unohomeloans/property}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java/au/com/unohomeloans/property/service/impl/ids}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="property-search-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java/au/com/unohomeloans/property}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/git/UNO/property-search-service/src/test/java/au/com/unohomeloans/property/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.IdsPropertySearchServiceImplTest" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="property-search-service-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Persistence" order="0" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1361328" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.23566177" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32977942" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Tabnine Chat" order="0" />
+      <window_info anchor="right" id="Endpoints" order="0" />
+      <window_info anchor="right" id="Beans" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.32977942" left="0.1361328" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="169" width="1288" height="1047" key="#Project_Structure.ideScale=110" timestamp="1727084299856">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="635" y="169" width="1288" height="1047" key="#Project_Structure.ideScale=110/0.0.2560.1384/2560.180.1920.1080@0.0.2560.1384" timestamp="1727084299856" />
+    <state x="659" y="241" key="SettingsEditor.ideScale=110" timestamp="1727084331805">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="659" y="241" key="SettingsEditor.ideScale=110/0.0.2560.1384/2560.180.1920.1080@0.0.2560.1384" timestamp="1727084331805" />
+    <state x="859" y="309" width="842" height="1046" key="search.everywhere.popup.ideScale=110" timestamp="1727084328730">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="859" y="309" width="842" height="1046" key="search.everywhere.popup.ideScale=110/0.0.2560.1384/2560.180.1920.1080@0.0.2560.1384" timestamp="1727084328730" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/unohomeloans/property/service/impl/ids/IdsPropertySearchServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/au/com/unohomeloans/property/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK11-openjdk-amd64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>property-search-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

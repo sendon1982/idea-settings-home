@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjupyter_web=self.webpackChunkjupyter_web||[]).push([[5802],{45802:(c,u,e)=>{e.r(u),e.d(u,{ArchitectureModule:()=>_.s,createArchitectureServices:()=>_.i});var _=e(15563);e(85497)}}]);

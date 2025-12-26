@@ -1,0 +1,579 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rvpnp-selenium" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Dockerfile">
+      <summary usageCount="5" lastUsed="1739776331661" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="41" lastUsed="1739879571386" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="38" lastUsed="1755320995322" />
+    </fileType>
+    <fileType name="Learn Q Inline Suggestions">
+      <summary usageCount="1" lastUsed="1756532129162" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="18" lastUsed="1755320996017" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="6" lastUsed="1755320995716" />
+    </fileType>
+    <fileType name="Service unit configuration for systemd">
+      <summary usageCount="9" lastUsed="1755320995157" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="28" lastUsed="1755320995060" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="7" lastUsed="1754485852583" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chromedriver</find>
+      <find>App chrome mode i</find>
+      <find>und rvparx</find>
+      <find>excludeSwitches</find>
+      <find>selenu</find>
+      <find>screenshot</find>
+      <find>swi</find>
+      <find>recaptcha</find>
+      <find>robot</find>
+      <find>checkbox</find>
+      <find>sen</find>
+      <find>lomb</find>
+      <find>ting chrome options to Headless</find>
+      <find>sele</find>
+      <find>headl</find>
+      <find>query</find>
+      <find />
+      <find>*[0-9]..*</find>
+      <find>[a-z]+ *\n</find>
+      <find>hec</find>
+      <find>--headless=new</find>
+      <find>disable-blink-features=AutomationControlled</find>
+      <find>head</find>
+      <find>--disable-blink-features=AutomationControlle</find>
+      <find>roxy server</find>
+      <find>Park detail page URL is</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/rvpnp/selenium</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/service</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/src/main/resources/queryList.txt" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/deploy-jar-aws-ec2.sh" />
+      <option value="$PROJECT_DIR$/aws-ec2-template/ec2-init.sh" />
+      <option value="$PROJECT_DIR$/aws-ec2-template/rvpark-run.sh" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/service/RvParkGoogleQueryService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/MainApp.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/service/RvParkGoogleAdsClickService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="5" lastUsage="1739776331661" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="38" lastUsage="1755320995322" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="18" lastUsage="1755320996017" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="28" lastUsage="1755320995060" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1755320995716" />
+    </language>
+    <language id="Unit File (systemd)">
+      <summary usageCount="9" lastUsage="1755320995157" />
+    </language>
+    <language id="XML">
+      <summary usageCount="7" lastUsage="1754485852583" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/aws-ec2-template}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/aws-ec2-template}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/aws-ec2-template/webdriver}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/java/com/rvpnp/selenium}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/java/com/rvpnp/selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/java/com/rvpnp/selenium/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rvpnp-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/rvpnp-selenium/webdriver}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.MainApp" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="rvpnp-selenium-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17784314" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Welcome to SonarQube for IDE" order="3" />
+      <window_info id="Welcome to GitHub Copilot" order="4" />
+      <window_info id="Structure" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33272058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40036765" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26920235" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="SonarQube for IDE" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32977942" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3298828" />
+      <window_info anchor="right" id="Tabnine Chat" order="2" />
+      <window_info anchor="right" id="Endpoints" order="3" />
+      <window_info anchor="right" id="Beans" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="5" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="7" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="8" />
+      <window_info anchor="right" id="amazon.q.window" order="9" weight="0.3298828" />
+      <window_info anchor="right" id="Notifications" order="10" weight="0.25" />
+      <unified_weights bottom="0.26920235" left="0.17784314" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>amazon.q.window</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>AIAssistant</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="875" y="347" width="808" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1754810811008">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="875" y="347" width="808" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810811008" />
+    <state x="1011" y="345" key="FileChooserDialogImpl.ideScale=110" timestamp="1756121336165">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1011" y="345" key="FileChooserDialogImpl.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756121336165" />
+    <state width="2502" height="417" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1754810947293">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947293" />
+    <state width="2502" height="417" key="GridCell.Tab.0.center.ideScale=110" timestamp="1754810947292">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947292" />
+    <state width="2502" height="417" key="GridCell.Tab.0.left.ideScale=110" timestamp="1754810947292">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947292" />
+    <state width="2502" height="417" key="GridCell.Tab.0.right.ideScale=110" timestamp="1754810947292">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947292" />
+    <state width="2502" height="417" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1754810947293">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947293" />
+    <state width="2502" height="417" key="GridCell.Tab.1.center.ideScale=110" timestamp="1754810947293">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947293" />
+    <state width="2502" height="417" key="GridCell.Tab.1.left.ideScale=110" timestamp="1754810947293">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947293" />
+    <state width="2502" height="417" key="GridCell.Tab.1.right.ideScale=110" timestamp="1754810947293">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="417" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754810947293" />
+    <state width="2502" height="509" key="GridCell.Tab.2.bottom.ideScale=110" timestamp="1754571816696">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.2.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754571816696" />
+    <state width="2502" height="509" key="GridCell.Tab.2.center.ideScale=110" timestamp="1754571816696">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.2.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754571816696" />
+    <state width="2502" height="509" key="GridCell.Tab.2.left.ideScale=110" timestamp="1754571816695">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.2.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754571816695" />
+    <state width="2502" height="509" key="GridCell.Tab.2.right.ideScale=110" timestamp="1754571816696">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.2.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754571816696" />
+    <state x="848" y="335" key="NewModule_or_Project.wizard.ideScale=110" timestamp="1755935791420">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="848" y="335" key="NewModule_or_Project.wizard.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1755935791420" />
+    <state x="660" y="240" key="SettingsEditor.ideScale=110" timestamp="1757595395715">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="660" y="240" key="SettingsEditor.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757595395715" />
+    <state x="700" y="371" width="1157" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.ideScale=110" timestamp="1754467426773">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="700" y="371" width="1157" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754467426773" />
+    <state x="588" y="194" width="702" height="642" key="find.popup.ideScale=110" timestamp="1754809935238">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="588" y="194" width="702" height="642" key="find.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1754809935238" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;)).click()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.Keys</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;)).click();</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.Keys</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElements(By.className(&quot;recaptcha-checkbox-border&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.Keys</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.Keys</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;)).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.Keys</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;)).sendKeys(Keys.ENTER)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.Keys</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;)).sendKeys();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.findElement(By.className(&quot;recaptcha-checkbox-border&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.getPageSource()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.getCurrentUrl()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iframeWebDriver.getTitle()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.switchTo().frame(driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.switchTo().frame(driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0)).getTitle()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0).getLocation()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0).getClass()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0).getTagName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;)).get(0).getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.xpath(&quot;/html/body/div[1]/form/div/div/div/iframe&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot10801472741735879936.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot13897594074342503642.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot8930886193459417301.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot499083012850993783.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot3250448685458303116.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot13809217878352828516.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot3658844320750514056.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot2809872916287089805.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot4472167728044478193.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot16391330569093357887.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot10693248295819181433.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot12029173038788155594.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot2209901429970167769.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot18128963974757743874.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot5101306053330238474.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot7047943969154945888.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot18399453433968066985.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot13782528097183092897.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot13565915250249915420.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot10013698869126302081.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot8945566986154115584.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot6379254193976397265.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot6092120312181919040.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot3759383567453608803.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot732751970899311445.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot16565877895289512991.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot15139898579062976202.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot5932005265965564493.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot3402167867854907069.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot3836221650322849741.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot13690362307022851777.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot7349526707288771370.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot12131107513742948406.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot1355139665072180656.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot7784966681044199303.png" />
+    <entry file="file://$PROJECT_DIR$/tmp/screenshot4401510829393672614.png" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/queryList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5112">
+          <caret line="213" column="3" selection-start-line="213" selection-end-line="213" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/service/RvParkGoogleQueryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="91" selection-start-line="91" selection-end-line="98" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy-jar-aws-ec2.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="95" selection-start-line="15" selection-start-column="95" selection-end-line="15" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="816">
+            <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aws-ec2-template/rvpark-run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aws-ec2-template/ec2-init.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aws-ec2-template/rvpark.service">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="60" column="59" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/parkList.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvpnp/selenium/service/RvParkGoogleAdsClickService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="76" column="58" lean-forward="true" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

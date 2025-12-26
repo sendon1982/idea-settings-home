@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.TEST_STARTED_TIMESTAMP_INDEX = void 0;
+/**
+ * Cypress doesnt report duration for failed test, so to calculate duration we use this index to save timestamp on native test object
+ */
+exports.TEST_STARTED_TIMESTAMP_INDEX = "__aquaTestRunStartedTimestamp__";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29uc3RhbnRzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vc3JjL2N5cHJlc3MvY29uc3RhbnRzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBOztHQUVHO0FBQ1UsUUFBQSw0QkFBNEIsR0FBRyxpQ0FBaUMsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogQ3lwcmVzcyBkb2VzbnQgcmVwb3J0IGR1cmF0aW9uIGZvciBmYWlsZWQgdGVzdCwgc28gdG8gY2FsY3VsYXRlIGR1cmF0aW9uIHdlIHVzZSB0aGlzIGluZGV4IHRvIHNhdmUgdGltZXN0YW1wIG9uIG5hdGl2ZSB0ZXN0IG9iamVjdFxuICovXG5leHBvcnQgY29uc3QgVEVTVF9TVEFSVEVEX1RJTUVTVEFNUF9JTkRFWCA9IFwiX19hcXVhVGVzdFJ1blN0YXJ0ZWRUaW1lc3RhbXBfX1wiIl19

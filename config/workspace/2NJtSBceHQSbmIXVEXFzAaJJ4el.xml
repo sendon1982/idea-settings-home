@@ -1,0 +1,972 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ai-gateway-service" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="47" lastUsed="1760178644072" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="8" lastUsed="1756536667583" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1756295869859" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="109" lastUsed="1761971316527" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="8" lastUsed="1758104311203" />
+    </fileType>
+    <fileType name="Learn Q Inline Suggestions">
+      <summary usageCount="1" lastUsed="1756532128601" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="5" lastUsed="1757215752844" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="11" lastUsed="1760158732719" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="13" lastUsed="1760163060328" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="39" lastUsed="1760175225953" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pk_live_51ICGFmCgaUm2LFbtRVnuyWyFYKXI9tsdj5xA8GvhXqhJyP7n0SJFg27bNLooIccnYafyzkVpG6sHrLWbyb5krTTX00TkOjpOBX</find>
+      <find>Permission</find>
+      <find>Model</find>
+      <find>ModelResponse</find>
+      <find>PARKOWNER_RVPNP_COM</find>
+      <find>www.rvparx.com</find>
+      <find>8080</find>
+      <find>rvpnp</find>
+      <find>open</find>
+      <find>sec</find>
+      <find>env.GOOGLE_</find>
+      <find>cors</find>
+      <find>deepseek</find>
+      <find>user(</find>
+      <find>DefaultChatClientRequestSpec</find>
+      <find>spring-boot-starter-webflux</find>
+      <find>openapi3</find>
+      <find>supportingFilesToGenerate</find>
+      <find>ApiUtil</find>
+      <find>web</find>
+      <find>DeepSeekChatOptions</find>
+      <find>apik</find>
+      <find>ChatModel</find>
+      <find>lombok</find>
+      <find>maven-compiler-plugin</find>
+      <find>swagger</find>
+      <find>springdoc</find>
+      <find>build-jar-docker-deploy-gcp.sh</find>
+      <find>ImageClient</find>
+      <find>builder</find>
+      <find>spring-ai-starter-model-ope</find>
+      <find>Generated</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/resources</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/rvparx/aigateway</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/rvpnp/chatgpt/MainApp.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/openapi3/openapi3.yaml" />
+      <option value="$PROJECT_DIR$/HELP.md" />
+      <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/AppConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/ChatGptServiceImpl.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application-dev.yml" />
+      <option value="$PROJECT_DIR$/src/main/resources/openapi3/ai-gateway.yaml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/RestController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/AiGatewayRestController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/util/FileUtil.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/GoogleCloudConfig.java" />
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/MainApp.java" />
+      <option value="$PROJECT_DIR$/src/test/java/com/rvparx/aigateway/web/SpringAIControllerTest.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/openapi3/spring-ai.yaml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/SecurityConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/AIRequest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/GatewayRestController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/model/AIModel.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/SpringAIService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/SpringAIServiceImpl.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/ChatClientConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/model/ModelInfo.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/build-jar-docker-deploy-gcp.sh" />
+      <option value="$PROJECT_DIR$/bitbucket-pipelines.yml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/ImageModelFactory.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/ChatClientFactory.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/model/image/ImageRequest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/model/image/ImageResult.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/model/image/ImageResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/SpringAIController.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="8" lastUsage="1756536667583" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1756295869859" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="109" lastUsage="1761971316534" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1758104311203" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="5" lastUsage="1757215752844" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="11" lastUsage="1760158732719" />
+    </language>
+    <language id="XML">
+      <summary usageCount="13" lastUsage="1760163060328" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="39" lastUsage="1760175225953" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="chatgpt-service" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="chatgpt-service" type="20da4fc8:ProjectNode" />
+          <item name="Dependencies" type="f55f452e:DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="chatgpt-service" type="20da4fc8:ProjectNode" />
+          <item name="Dependencies" type="f55f452e:DependenciesNode" />
+          <item name="io.projectreactor:reactor-test:3.7.8" type="4a07e32d:DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="chatgpt-service" type="20da4fc8:ProjectNode" />
+          <item name="Dependencies" type="f55f452e:DependenciesNode" />
+          <item name="io.projectreactor:reactor-test:3.7.8" type="4a07e32d:DependencyNode" />
+          <item name="io.projectreactor:reactor-core:3.7.8" type="4a07e32d:DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/model}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/model/image}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/web}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/java/com/rvparx/aigateway/web/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ai-gateway-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/ai-gateway-service/src/main/resources/openapi3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.MainApp" />
+      <element setting="JUnit.SpringAIControllerTest (1)" />
+      <element setting="JUnit.SpringAIControllerTest" />
+      <element setting="Spring Boot.Unnamed" />
+      <element setting="Spring Boot.MainApp (1)" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1801217" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="ai-gateway-service-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringAIControllerTest - 2025.08.30 at 15h 42m 18s.xml">
+      <configuration name="SpringAIControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringAIControllerTest_(1) - 2025.09.02 at 22h 26m 54s.xml">
+      <configuration name="SpringAIControllerTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringAIControllerTest_(1) - 2025.09.02 at 22h 27m 01s.xml">
+      <configuration name="SpringAIControllerTest (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63146000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Welcome to SonarQube for IDE" order="1" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.28482145" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28639704" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30110294" />
+      <window_info anchor="bottom" id="SonarQube for IDE" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" weight="0.32977942" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3055147" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32977942" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35011312" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" weight="0.32977942" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3298828" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="5" weight="0.3298828" />
+      <window_info anchor="right" id="Beans" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="7" weight="0.3298828" />
+      <window_info anchor="right" id="amazon.q.window" order="8" weight="0.3298828" />
+      <window_info anchor="right" id="Notifications" order="9" weight="0.25" />
+      <unified_weights bottom="0.35011312" left="0.28482145" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>TODO</value>
+      <value>Build</value>
+      <value>Profiler</value>
+      <value>Services</value>
+      <value>Maven</value>
+      <value>GitHub Copilot Chat</value>
+      <value>amazon.q.window</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="170" key="#Project_Structure.ideScale=110" timestamp="1756210122599">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="636" y="170" key="#Project_Structure.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756210122599" />
+    <state x="69" y="329" width="2419" height="724" key="#SonarQube_for_IDE.ideScale=110" timestamp="1756536578121">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="69" y="329" width="2419" height="724" key="#SonarQube_for_IDE.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756536578121" />
+    <state x="876" y="350" width="814" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1757330314055">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="876" y="350" width="814" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757330314055" />
+    <state x="1011" y="359" key="#com.intellij.ide.macro.MacrosDialog.ideScale=110" timestamp="1756297065024">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1011" y="359" key="#com.intellij.ide.macro.MacrosDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756297065024" />
+    <state x="1041" y="317" width="476" height="751" key="#com.intellij.ide.util.MemberChooser.ideScale=110" timestamp="1757215320641">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1041" y="317" width="476" height="751" key="#com.intellij.ide.util.MemberChooser.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757215320641" />
+    <state x="948" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog.ideScale=110" timestamp="1756297051789">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="948" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756297051789" />
+    <state x="1033" y="469" key="EnvironmentVariablesDialog.ideScale=110" timestamp="1757330313187">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1033" y="469" key="EnvironmentVariablesDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757330313187" />
+    <state x="1014" y="421" key="FileChooserDialogImpl.ideScale=110" timestamp="1757330250221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1014" y="421" key="FileChooserDialogImpl.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757330250221" />
+    <state width="2502" height="354" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.0.center.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.0.left.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.0.right.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.1.center.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.1.left.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="354" key="GridCell.Tab.1.right.ideScale=110" timestamp="1760178936003">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="354" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178936003" />
+    <state width="2502" height="374" key="GridCell.Tab.2.bottom.ideScale=110" timestamp="1760178882716">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="374" key="GridCell.Tab.2.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178882716" />
+    <state width="2502" height="374" key="GridCell.Tab.2.center.ideScale=110" timestamp="1760178882716">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="374" key="GridCell.Tab.2.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178882716" />
+    <state width="2502" height="374" key="GridCell.Tab.2.left.ideScale=110" timestamp="1760178882716">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="374" key="GridCell.Tab.2.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178882716" />
+    <state width="2502" height="374" key="GridCell.Tab.2.right.ideScale=110" timestamp="1760178882716">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="374" key="GridCell.Tab.2.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760178882716" />
+    <state x="948" y="328" key="SettingsEditor.ideScale=110" timestamp="1758104371669">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="948" y="328" key="SettingsEditor.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1758104371669" />
+    <state width="680" height="1282" key="SwitcherDM.ideScale=110" timestamp="1757215629696">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="680" height="1282" key="SwitcherDM.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757215629696" />
+    <state x="999" y="439" width="560" height="504" key="com.intellij.testIntegration.createTest.CreateTestDialog.ideScale=110" timestamp="1756815210790">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="999" y="439" width="560" height="504" key="com.intellij.testIntegration.createTest.CreateTestDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756815210790" />
+    <state x="588" y="194" width="702" height="642" key="find.popup.ideScale=110" timestamp="1760174589218">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="588" y="194" width="702" height="642" key="find.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760174589218" />
+    <state x="880" y="294" width="800" height="795" key="new project wizard.ideScale=110" timestamp="1757328863623">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="880" y="294" width="800" height="795" key="new project wizard.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1757328863623" />
+    <state x="859" y="308" width="842" height="1046" key="search.everywhere.popup.ideScale=110" timestamp="1760175325082">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="859" y="308" width="842" height="1046" key="search.everywhere.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760175325082" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>JsonUtil.convertToObject(response, ImageResponse.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.rvparx.aigateway.util.JsonUtil,com.rvparx.aigateway.model.image.ImageResponse</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>FileUtil.readFileByClasspath(&quot;gcp/exalted-skein-466602-d3-5ad5acb615c8.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.rvparx.aigateway.util.FileUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>FileUtil.readFileByClasspath(&quot;classpath*:/gcp/exalted-skein-466602-d3-5ad5acb615c8.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.rvparx.aigateway.util.FileUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>FileUtil.readFileByClasspath(&quot;classpath:gcp/exalted-skein-466602-d3-5ad5acb615c8.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.rvparx.aigateway.util.FileUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>FileUtil.readFileByClasspath(googleCreds)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.rvparx.aigateway.util.FileUtil</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;classpath:/gcp/exalted-skein-466602-d3-5ad5acb615c8.json&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/ChatGptRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-autoconfigure-model-vertex-ai/1.0.1/spring-ai-autoconfigure-model-vertex-ai-1.0.1-sources.jar!/org/springframework/ai/model/vertexai/autoconfigure/gemini/VertexAiGeminiChatAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/SpringAIService.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-openai/1.0.1/spring-ai-openai-1.0.1.jar!/org/springframework/ai/openai/OpenAiChatModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="492" column="39" selection-start-line="492" selection-start-column="39" selection-end-line="492" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-vertex-ai-gemini/1.0.1/spring-ai-vertex-ai-gemini-1.0.1.jar!/org/springframework/ai/vertexai/gemini/VertexAiGeminiChatOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-vertex-ai-gemini/1.0.1/spring-ai-vertex-ai-gemini-1.0.1.jar!/org/springframework/ai/vertexai/gemini/common/VertexAiGeminiSafetySetting.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-vertexai/1.32.0/google-cloud-vertexai-1.32.0.jar!/com/google/cloud/vertexai/VertexAI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-deepseek/1.0.1/spring-ai-deepseek-1.0.1.jar!/org/springframework/ai/deepseek/DeepSeekChatModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="343" column="48" selection-start-line="343" selection-start-column="48" selection-end-line="343" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-deepseek/1.0.1/spring-ai-deepseek-1.0.1.jar!/org/springframework/ai/deepseek/DeepSeekChatOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-autoconfigure-model-vertex-ai/1.0.1/spring-ai-autoconfigure-model-vertex-ai-1.0.1-sources.jar!/org/springframework/ai/model/vertexai/autoconfigure/gemini/VertexAiGeminiConnectionProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/SpringAIServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/model/AIRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/model/ModelInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-deepseek/1.0.1/spring-ai-deepseek-1.0.1-sources.jar!/org/springframework/ai/deepseek/DeepSeekChatOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-deepseek/1.0.1/spring-ai-deepseek-1.0.1-sources.jar!/org/springframework/ai/deepseek/DeepSeekChatModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="544" column="23" selection-start-line="544" selection-start-column="23" selection-end-line="544" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="36" column="39" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exalted-skein-466602-d3-5ad5acb615c8.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-deepseek/1.0.1/spring-ai-deepseek-1.0.1.jar!/org/springframework/ai/deepseek/api/DeepSeekApi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-deepseek/1.0.1/spring-ai-deepseek-1.0.1-sources.jar!/org/springframework/ai/deepseek/api/DeepSeekApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/openapi3/chatgpt-openapi3.yaml">
+      <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview">
+        <state>
+          <general_editor relative-caret-position="384">
+            <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          </general_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/openapi3/ai-gateway.yaml">
+      <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview">
+        <state>
+          <general_editor relative-caret-position="5184">
+            <caret line="216" selection-start-line="216" selection-end-line="216" />
+          </general_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-vertex-ai-gemini/1.0.1/spring-ai-vertex-ai-gemini-1.0.1.jar!/org/springframework/ai/vertexai/gemini/VertexAiGeminiChatModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12432">
+          <caret line="609" column="8" selection-start-line="609" selection-start-column="8" selection-end-line="609" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-openai/1.0.1/spring-ai-openai-1.0.1.jar!/org/springframework/ai/openai/api/OpenAiApi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24408">
+          <caret line="1317" column="8" selection-start-line="1317" selection-start-column="8" selection-end-line="1317" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-jar-docker-deploy-gcp.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/ChatClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-client-chat/1.0.1/spring-ai-client-chat-1.0.1.jar!/org/springframework/ai/chat/client/ChatClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-openai/1.0.1/spring-ai-openai-1.0.1-sources.jar!/org/springframework/ai/openai/api/OpenAiApi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-openai/1.0.1/spring-ai-openai-1.0.1.jar!/org/springframework/ai/openai/OpenAiImageModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-autoconfigure-model-openai/1.0.1/spring-ai-autoconfigure-model-openai-1.0.1.jar!/org/springframework/ai/model/openai/autoconfigure/OpenAiImageAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-model/1.0.1/spring-ai-model-1.0.1.jar!/org/springframework/ai/model/SpringAIModelProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-autoconfigure-model-openai/1.0.1/spring-ai-autoconfigure-model-openai-1.0.1-sources.jar!/org/springframework/ai/model/openai/autoconfigure/OpenAiImageAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-model/1.0.1/spring-ai-model-1.0.1.jar!/org/springframework/ai/image/ImageModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/ImageModelFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/ai/spring-ai-openai/1.0.1/spring-ai-openai-1.0.1-sources.jar!/org/springframework/ai/openai/OpenAiImageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="91" column="42" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="99" column="37" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="62" column="46" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/service/ChatClientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="123" column="33" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" selection-start-line="18" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#625#651#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/model/image/ImageRequestInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/6.2.9/spring-webflux-6.2.9.jar!/org/springframework/web/reactive/result/method/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.7.8/reactor-core-3.7.8.jar!/reactor/core/publisher/MonoFlatMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.7.8/reactor-core-3.7.8.jar!/reactor/core/publisher/FluxOnAssembly.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+          <folding>
+            <element signature="e#6690#6691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.7.8/reactor-core-3.7.8.jar!/reactor/core/publisher/MonoZip.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/model/image/ImageResultInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/model/image/ImageResponseInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.2.9/spring-web-6.2.9.jar!/org/springframework/http/HttpHeaders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="382" column="16" selection-start-line="382" selection-start-column="16" selection-end-line="382" selection-end-column="16" />
+          <folding>
+            <element signature="e#15640#15641#0" expanded="true" />
+            <element signature="e#15700#15701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/SpringAIController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2616">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1452#1478#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/aigateway/web/model/AIModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>java-17-openjdk-amd64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ai-gateway-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

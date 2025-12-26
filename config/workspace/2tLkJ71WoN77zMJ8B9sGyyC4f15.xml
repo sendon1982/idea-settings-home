@@ -1,0 +1,586 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spring-framework" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-study/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1740141396399" />
+    </fileType>
+    <fileType name="EditorConfig">
+      <summary usageCount="1" lastUsed="1740140020281" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="39" lastUsed="1755321004131" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="88" lastUsed="1756536650022" />
+    </fileType>
+    <fileType name="Kotlin">
+      <summary usageCount="9" lastUsed="1755321002596" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="3" lastUsed="1740141619406" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="3" lastUsed="1756991412490" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="2" lastUsed="1740141619436" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="5" lastUsed="1740141619551" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-jdbc.gradle</find>
+      <find>apply plugin:</find>
+      <find>:spring-beans</find>
+      <find />
+      <find>lombok</find>
+      <find>Werror</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/spring-study</dir>
+      <dir>$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy</dir>
+      <dir>$PROJECT_DIR$/spring-core/src/main/kotlin/org/springframework/core/env</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/GenericTypeResolver.java" />
+      <option value="$PROJECT_DIR$/spring-webmvc/src/test/resources/org/springframework/web/context/beans1.xml" />
+      <option value="$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/service/UserService.java" />
+      <option value="$PROJECT_DIR$/spring-study/src/main/resources/beans.xml" />
+      <option value="$PROJECT_DIR$/settings.gradle" />
+      <option value="$PROJECT_DIR$/spring-study/build.gradle" />
+      <option value="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/ClassPathXmlApplicationContext.java" />
+      <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java" />
+      <option value="$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/SpringStudyMain.java" />
+      <option value="$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/config/AppConfig.java" />
+      <option value="$PROJECT_DIR$/spring-study/spring-study.gradle" />
+      <option value="$PROJECT_DIR$/spring-core/src/main/kotlin/org/springframework/core/env/PropertyResolverExtensions.kt" />
+      <option value="$PROJECT_DIR$/spring-beans/src/test/java/org/springframework/beans/factory/aot/BeanDefinitionMethodGeneratorTests.java" />
+      <option value="$PROJECT_DIR$/spring-core-test/src/main/java/org/springframework/core/test/tools/TestCompiler.java" />
+      <option value="$PROJECT_DIR$/buildSrc/src/main/java/org/springframework/build/JavaConventions.java" />
+      <option value="$PROJECT_DIR$/framework-api/framework-api.gradle" />
+      <option value="$PROJECT_DIR$/spring-study/src/main/resources/application.yaml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="EditorConfig">
+      <summary usageCount="1" lastUsage="1740140020281" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="39" lastUsage="1755321004131" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="88" lastUsage="1756536650028" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="3" lastUsage="1740141619406" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="3" lastUsage="1756991412490" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="2" lastUsage="1740141619436" />
+    </language>
+    <language id="XML">
+      <summary usageCount="5" lastUsage="1740141619551" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="9" lastUsage="1755321002598" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java/org/wemeet/springstudy}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java/org/wemeet/springstudy}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java/org/wemeet/springstudy/config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java/org/wemeet/springstudy}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/java/org/wemeet/springstudy/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-study/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/spring-source/spring-framework/spring-web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.SpringStudyMain" />
+      <element setting="Gradle.spring-framework [dependencies]" />
+      <element setting="Gradle.spring-study [dependencies]" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="spring-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43539000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Persistence" order="1" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.18339844" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Welcome to SonarQube for IDE" order="4" />
+      <window_info id="Welcome to GitHub Copilot" order="5" />
+      <window_info id="Structure" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29742646" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.35036767" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27536765" />
+      <window_info anchor="bottom" id="Services" order="8" weight="0.32977942" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="SonarQube for IDE" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32977942" />
+      <window_info anchor="right" id="Gradle" visible="true" weight="0.26972657" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Tabnine Chat" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Beans" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" />
+      <window_info anchor="right" id="amazon.q.window" order="8" />
+      <window_info anchor="right" id="Notifications" order="9" weight="0.25" />
+      <unified_weights bottom="0.29742646" left="0.18339844" right="0.26972657" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Gradle</value>
+      <value>Terminal</value>
+      <value>Debug</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="167" width="1288" height="1047" key="#Project_Structure.ideScale=110" timestamp="1752151214260">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="635" y="167" width="1288" height="1047" key="#Project_Structure.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752151214260" />
+    <state width="2503" height="369" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1752402482067">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="369" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752402482067" />
+    <state width="2503" height="369" key="GridCell.Tab.0.center.ideScale=110" timestamp="1752402482067">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="369" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752402482067" />
+    <state width="2503" height="369" key="GridCell.Tab.0.left.ideScale=110" timestamp="1752402482067">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="369" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752402482067" />
+    <state width="2503" height="369" key="GridCell.Tab.0.right.ideScale=110" timestamp="1752402482067">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="369" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752402482067" />
+    <state x="660" y="240" key="SettingsEditor.ideScale=110" timestamp="1756536555032">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="660" y="240" key="SettingsEditor.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1756536555032" />
+    <state width="623" height="757" key="SwitcherDM.ideScale=110" timestamp="1752401818370">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="623" height="757" key="SwitcherDM.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752401818370" />
+    <state x="588" y="194" width="784" height="714" key="find.popup.ideScale=110" timestamp="1752402479249">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="588" y="194" width="784" height="714" key="find.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752402479249" />
+    <state x="860" y="321" width="840" height="1043" key="run.anything.popup.ideScale=110" timestamp="1752402379820">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="860" y="321" width="840" height="1043" key="run.anything.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1752402379820" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="336">
+            <caret line="14" selection-start-line="13" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/idea/spring-framework.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/GenericTypeResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/main/java/org/springframework/test/util/AopTestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1168">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/main/java/org/springframework/test/jdbc/JdbcTestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/main/java/org/springframework/test/context/ActiveProfiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/src/test/java/org/wemeet/springstudy/SpringStudyApplicationTests.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/6.2.3/35acadc000b8aaff77e3412dd9acb51aa70c8515/spring-context-6.2.3.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class" />
+    <entry file="file://$PROJECT_DIR$/spring-study/HELP.md" />
+    <entry file="file://$PROJECT_DIR$/spring-study/gradlew" />
+    <entry file="file://$PROJECT_DIR$/spring-study/src/main/resources/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webmvc/src/test/resources/org/springframework/web/context/beans1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/SpringStudyApplication.java" />
+    <entry file="file://$PROJECT_DIR$/spring-beans/spring-beans.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/6.2.3/b7b3eedf62532165d74857e4a653cf16660113f9/spring-context-6.2.3-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java" />
+    <entry file="file://$PROJECT_DIR$/spring-jdbc/spring-jdbc.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildSrc/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildSrc/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-661">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/buildSrc/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/spring-module.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/toolchains.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/SimpleThreadScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/SpringStudyMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/spring-study.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3072">
+          <caret line="165" column="28" selection-start-line="165" selection-start-column="28" selection-end-line="165" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-17-openjdk-amd64/openjdk-17-src.zip!/java.base/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22896">
+          <caret line="1023" column="33" selection-start-line="1023" selection-start-column="33" selection-end-line="1023" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-core/src/main/kotlin/org/springframework/core/env/PropertyResolverExtensions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="41" column="71" lean-forward="true" selection-start-line="41" selection-start-column="71" selection-end-line="41" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-study/src/main/java/org/wemeet/springstudy/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>java-17-openjdk-amd64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

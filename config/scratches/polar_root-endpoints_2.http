@@ -1,0 +1,19 @@
+###
+POST http://localhost:8008/create-checkout-session
+
+{
+  "unitAmount": 300,
+  "currency": "USD",
+  "quantity": 1,
+  "productName": "string test",
+  "productDescription": "string test description",
+  "images": [
+    "http://127.0.0.1"
+  ],
+  "successUrl": "http://127.0.0.1",
+  "cancelUrl": "http://127.0.0.1"
+}
+
+<> 2024-08-07T212219.500.json
+<> 2024-08-07T212150.500.json
+<> 2024-08-07T212117.500.json

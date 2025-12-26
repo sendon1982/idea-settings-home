@@ -1,0 +1,287 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="algorithm" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseConsolesMigrationStorage">
+    <option name="migrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1zrwby67lyxyk" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/orghierarchy/Group.java" file-id="163" managing-fs="1765970699798">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="27" selection-start-column="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Group.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="mock:///What's new in Rainbow Brackets" managing-fs="1765970699798">
+          <provider editor-type-id="html-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"What's new in Rainbow Brackets","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,67,10,15,110,111,100,101,115,47,112,112,87,101,98,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,112,112,87,101,98,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-11,-101,-13,-59,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="mock:///Trial" managing-fs="1765970699798">
+          <provider editor-type-id="html-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Trial","foregroundColor":-3025959,"textAttributes":{"name":"a"}}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/tenniscourt/TennisClubSchedulerTest.java" file-id="162" managing-fs="1765970699798">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4392">
+              <caret line="184" column="81" selection-start-line="184" selection-start-column="81" selection-end-line="184" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TennisClubSchedulerTest.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/tenniscourt/TennisClubScheduler.java" file-id="161" managing-fs="1765970699798">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3840">
+              <caret line="166" column="55" selection-start-line="166" selection-start-column="55" selection-end-line="166" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TennisClubScheduler.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/orghierarchy/OrgHierarchyLCA.java" file-id="164" managing-fs="1765970699798">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="240">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"OrgHierarchyLCA.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml" file-id="153" managing-fs="1765970699798">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="312">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 4,
+      "lastUsed": 1765972653508
+    },
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1765972653154
+    },
+    "WebPreview": {
+      "usageCount": 2,
+      "lastUsed": 1765972668834
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="8" lastUsage="1765972653508" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1765972653162" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.TennisClubSchedulerTest" />
+      <element setting="Application.OrgHierarchyLCA" />
+      <element setting="Application.Test146" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="algorithm-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14517000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info active="true" anchor="right" id="Meet New UI" order="6" visible="true" weight="0.33035713" />
+      <unified_weights right="0.33035713" />
+    </layoutV2>
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Welcome to SonarQube for IDE" order="1" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.16777344" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28933823" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40036765" />
+      <window_info anchor="bottom" id="SonarQube for IDE" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23566177" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="5" />
+      <window_info anchor="right" id="AIAssistant" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.28933823" left="0.16777344" />
+    </layout>
+    <recentWindows>
+      <value>Meet New UI</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2502" height="358" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1765882704373">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="358" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882704373" />
+    <state width="2502" height="358" key="GridCell.Tab.0.center.ideScale=110" timestamp="1765882704373">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="358" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882704373" />
+    <state width="2502" height="358" key="GridCell.Tab.0.left.ideScale=110" timestamp="1765882704373">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="358" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882704373" />
+    <state width="2502" height="358" key="GridCell.Tab.0.right.ideScale=110" timestamp="1765882704373">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="358" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882704373" />
+    <state width="2502" height="509" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1765882616168">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882616168" />
+    <state width="2502" height="509" key="GridCell.Tab.1.center.ideScale=110" timestamp="1765882616168">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882616168" />
+    <state width="2502" height="509" key="GridCell.Tab.1.left.ideScale=110" timestamp="1765882616168">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882616168" />
+    <state width="2502" height="509" key="GridCell.Tab.1.right.ideScale=110" timestamp="1765882616168">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="509" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765882616168" />
+    <state width="800" height="330" key="ShowBookmarks.ideScale=110" timestamp="1765881390452">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="800" height="330" key="ShowBookmarks.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1765881390452" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/orghierarchy/OrgHierarchyLCA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/tenniscourt/TennisClubSchedulerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4392">
+          <caret line="184" column="81" selection-start-line="184" selection-start-column="81" selection-end-line="184" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/tenniscourt/TennisClubScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3840">
+          <caret line="166" column="55" selection-start-line="166" selection-start-column="55" selection-end-line="166" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/interview/atlassian/orghierarchy/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

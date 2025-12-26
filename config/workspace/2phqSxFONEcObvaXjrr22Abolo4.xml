@@ -1,0 +1,470 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="springboot3-jpa-tx" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-504" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/orm.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar!/jakarta/persistence/persistence_3_0.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="5" lastUsed="1733228817422" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="1" lastUsed="1733228831972" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="4" lastUsed="1733229616569" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserRepository.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/MainApp.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/User.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/META-INF/orm.xml" />
+      <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="5" lastUsage="1733228817422" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1733228831972" />
+    </language>
+    <language id="XML">
+      <summary usageCount="4" lastUsage="1733229616569" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/java/org/wemeet/sbjt}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/java/org/wemeet/sbjt}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/java/org/wemeet/sbjt/core}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/springboot3-jpa-tx/springboot3-jpa-tx/src/main/resources/META-INF}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-jpa-tx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.MainApp" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="springboot3-jpa-tx-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Persistence" order="0" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17558594" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32977942" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.35487288" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Tabnine Chat" order="0" />
+      <window_info anchor="right" id="Endpoints" order="0" />
+      <window_info anchor="right" id="Beans" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.35487288" left="0.17558594" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="350" width="808" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1733229308656">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="876" y="350" width="808" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733229308656" />
+    <state x="948" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog.ideScale=110" timestamp="1733229304175">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="948" y="465" key="#com.intellij.ide.util.TreeClassChooserDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733229304175" />
+    <state width="2503" height="413" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+    <state width="2503" height="413" key="GridCell.Tab.0.center.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+    <state width="2503" height="413" key="GridCell.Tab.0.left.ideScale=110" timestamp="1733303513374">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513374" />
+    <state width="2503" height="413" key="GridCell.Tab.0.right.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+    <state width="2503" height="413" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+    <state width="2503" height="413" key="GridCell.Tab.1.center.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+    <state width="2503" height="413" key="GridCell.Tab.1.left.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+    <state width="2503" height="413" key="GridCell.Tab.1.right.ideScale=110" timestamp="1733303513376">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1733303513376" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/wemeet/sbjt/core/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar!/jakarta/persistence/persistence_3_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

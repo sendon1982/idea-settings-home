@@ -1,0 +1,133 @@
+
+
+body {
+    background-color: white;
+    -webkit-text-size-adjust: 100%;
+    -fx-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    color: #333;
+    font-family: Helvetica, Arial, freesans, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    word-wrap: break-word;
+    margin: 0;
+}
+
+.message-wrapper {
+    border-top: 1px solid rgb(240, 240, 240);
+}
+
+.message-link, .source-link {
+    color: rgb(33%, 33%, 33%);
+}
+
+a {
+    background-color: transparent;
+}
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+img {
+    border: 0;
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td,
+th {
+    padding: 0;
+}
+
+table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all;
+}
+
+table th {
+    font-weight: bold;
+}
+
+table th,
+table td {
+    padding: 6px 13px;
+    border: 1px solid #ddd;
+}
+
+table tr {
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+}
+
+img {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.highlight {
+    background-color: yellow
+}
+
+
+
+.message-wrapper.level-error {
+    background-color: hsl(0, 100%, 97%);
+}
+
+.message-wrapper.level-error,
+.message-wrapper.level-error:enabled  + .message-wrapper {
+    border-top-color: hsl(0, 100%, 92%);
+}
+
+.level-warning {
+    background-color: hsl(50, 100%, 95%);
+}
+
+.message-wrapper.level-warning,
+.message-wrapper.level-warning:enabled  + .message-wrapper.level-log {
+    border-top-color: hsl(50, 100%, 80%);
+}
+
+
+
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background-color: inherit;
+}
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border: 2px solid #ffffff;
+    background-color: #959595;
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-track:vertical {
+    -webkit-box-shadow: -1px 0 0px transparent;
+}
+
+::-webkit-scrollbar-track:horizontal {
+    -webkit-box-shadow: 0 -1px 0px transparent;
+
+}

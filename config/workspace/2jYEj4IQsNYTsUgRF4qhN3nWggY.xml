@@ -1,0 +1,134 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="board_game_app" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1721555743563" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1721555743564" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="board_game_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/flutter_project/board_game_app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Flutter.main.dart" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25019532" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3302651" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Tabnine Chat" order="0" />
+      <window_info anchor="right" id="Endpoints" order="0" />
+      <window_info anchor="right" id="AIAssistant" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Flutter Deep Links" order="0" />
+      <unified_weights bottom="0.3302651" left="0.25019532" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1011" y="393" key="FileChooserDialogImpl.ideScale=110" timestamp="1721555844798">
+      <screen x="0" y="0" width="2560" height="1382" />
+    </state>
+    <state x="1011" y="393" key="FileChooserDialogImpl.ideScale=110/0.0.2560.1382@0.0.2560.1382" timestamp="1721555844798" />
+    <state width="2503" height="413" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1721555849624">
+      <screen x="0" y="0" width="2560" height="1382" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1382@0.0.2560.1382" timestamp="1721555849624" />
+    <state width="2503" height="413" key="GridCell.Tab.0.center.ideScale=110" timestamp="1721555849623">
+      <screen x="0" y="0" width="2560" height="1382" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1382@0.0.2560.1382" timestamp="1721555849623" />
+    <state width="2503" height="413" key="GridCell.Tab.0.left.ideScale=110" timestamp="1721555849623">
+      <screen x="0" y="0" width="2560" height="1382" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1382@0.0.2560.1382" timestamp="1721555849623" />
+    <state width="2503" height="413" key="GridCell.Tab.0.right.ideScale=110" timestamp="1721555849623">
+      <screen x="0" y="0" width="2560" height="1382" />
+    </state>
+    <state width="2503" height="413" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1382@0.0.2560.1382" timestamp="1721555849623" />
+    <state x="660" y="239" key="SettingsEditor.ideScale=110" timestamp="1721555815061">
+      <screen x="0" y="0" width="2560" height="1382" />
+    </state>
+    <state x="660" y="239" key="SettingsEditor.ideScale=110/0.0.2560.1382@0.0.2560.1382" timestamp="1721555815061" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

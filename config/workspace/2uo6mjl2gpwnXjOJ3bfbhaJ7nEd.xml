@@ -1,0 +1,600 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="springboot3-oltp-grafana" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old-config/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="41" column="56" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/docker/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="57" selection-start-line="57" selection-start-column="1" selection-end-line="63" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/docker/config/collector/otel-collector.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json">
+          <provider selected="true" editor-type-id="httpFileEditor" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="41" column="78" selection-start-line="41" selection-start-column="78" selection-end-line="41" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/docker/docker-compose-otel-lgtm.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old-config/tempo.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/opentelemetry/instrumentation/opentelemetry-spring-boot-autoconfigure/2.14.0/opentelemetry-spring-boot-autoconfigure-2.14.0-sources.jar!/io/opentelemetry/instrumentation/spring/autoconfigure/OpenTelemetryAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old-config/collector-spring-native-config.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1742945637139" />
+    </fileType>
+    <fileType name="CLASS">
+      <summary usageCount="5" lastUsed="1743413439511" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="2" lastUsed="1743412999262" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="8" lastUsed="1743413454102" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1743418175525" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1742946050078" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="4" lastUsed="1743155163520" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="1" lastUsed="1742903407496" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="5" lastUsed="1743496912937" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="21" lastUsed="1743500286525" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grafana</find>
+      <find>logging</find>
+      <find>OTEL_EXPORTER_OTLP_ENDPOINT</find>
+      <find>=</find>
+      <find>export</find>
+      <find>span</find>
+      <find>opentelemetry-spring-boot-star</find>
+      <find>otel-collector:4318</find>
+      <find>/log</find>
+      <find>v1/logs</find>
+      <find>must</find>
+      <find>otel-collector</find>
+      <find>9411</find>
+      <find>Zipkin</find>
+      <find>16686</find>
+      <find>3100</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>:</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/rvparx/sog</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/main/docker</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$/src/main/docker" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/src/main/docker/otel-collector-config.yaml" />
+      <option value="$PROJECT_DIR$/src/main/docker/Dockerfile" />
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" />
+      <option value="$PROJECT_DIR$/prometheus.yml" />
+      <option value="$PROJECT_DIR$/HELP.md" />
+      <option value="$PROJECT_DIR$/otel-collector-config.yaml" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/xx/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/xx/collector/otel-collector.yml" />
+      <option value="$PROJECT_DIR$/src/main/java/com/rvparx/sog/MainApp.java" />
+      <option value="$PROJECT_DIR$/collector-spring-native-config.yaml" />
+      <option value="$PROJECT_DIR$/tempo.yml" />
+      <option value="$PROJECT_DIR$/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/src/main/docker-config/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/src/main/docker/config/collector/otel-collector.yml" />
+      <option value="$PROJECT_DIR$/src/main/docker/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+      <option value="$PROJECT_DIR$/src/main/docker/docker-compose-otel-lgtm.yml" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="2" lastUsage="1743412999262" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="8" lastUsage="1743413454102" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1743418175525" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1742946050078" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1742903407496" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1743155163520" />
+    </language>
+    <language id="XML">
+      <summary usageCount="5" lastUsage="1743496912938" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="21" lastUsage="1743500286525" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="springboot3-oltp-grafana" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="springboot3-oltp-grafana" type="20da4fc8:ProjectNode" />
+          <item name="Dependencies" type="f55f452e:DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main/docker}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main/java/com/rvparx/sog}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot3-oltp-grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/springboot3-oltp-grafana/springboot3-oltp-grafana/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.MainApp" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="springboot3-oltp-grafana-history1">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45954000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15878907" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33860296" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.34375" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290441" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32977942" />
+      <window_info anchor="right" id="Key Promoter X" order="0" weight="0.3298828" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.42714846" />
+      <window_info anchor="right" id="Tabnine Chat" order="2" weight="0.3298828" />
+      <window_info anchor="right" id="Endpoints" order="3" />
+      <window_info anchor="right" id="Beans" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="5" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.3290441" left="0.15878907" right="0.42714846" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Maven</value>
+      <value>Key Promoter X</value>
+      <value>Tabnine Chat</value>
+      <value>AIAssistant</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="350" width="808" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1743413027346">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="876" y="350" width="808" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743413027346" />
+    <state x="906" y="450" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=110" timestamp="1742944297441">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="906" y="450" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1742944297441" />
+    <state x="1084" y="528" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.ideScale=110" timestamp="1742903434190">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1084" y="528" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1742903434190" />
+    <state width="2503" height="432" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.0.center.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.0.left.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.0.right.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.1.center.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.1.left.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.1.right.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.2.bottom.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.2.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.2.center.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.2.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.2.left.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.2.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state width="2503" height="432" key="GridCell.Tab.2.right.ideScale=110" timestamp="1743501514221">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="432" key="GridCell.Tab.2.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743501514221" />
+    <state x="96" y="100" width="2368" height="1188" key="com.intellij.history.integration.ui.views.FileHistoryDialog.ideScale=110" timestamp="1742991952366">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="96" y="100" width="2368" height="1188" key="com.intellij.history.integration.ui.views.FileHistoryDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1742991952366" />
+    <state x="699" y="133" width="716" height="676" key="find.popup.ideScale=110" timestamp="1743418904426">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="699" y="133" width="716" height="676" key="find.popup.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743418904426" />
+    <state x="859" y="309" width="842" height="1025" key="search.everywhere.popup.ideScale=110" timestamp="1743413439397">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="859" y="309" width="842" height="1025" key="search.everywhere.popup.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1743413439397" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="140" selection-start-column="140" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xx/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/xx/prometheus/prometheus.yml" />
+    <entry file="file://$PROJECT_DIR$/xx/collector/otel-collector.yml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/opentelemetry/instrumentation/opentelemetry-spring-web-3.1/2.14.0-alpha/opentelemetry-spring-web-3.1-2.14.0-alpha.jar!/io/opentelemetry/instrumentation/spring/web/v3_1/RestTemplateInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#2241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/opentelemetry/instrumentation/opentelemetry-spring-web-3.1/2.14.0-alpha/opentelemetry-spring-web-3.1-2.14.0-alpha-sources.jar!/io/opentelemetry/instrumentation/spring/web/v3_1/RestTemplateInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#1548#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/6.1.15/spring-web-6.1.15-sources.jar!/org/springframework/http/client/ClientHttpRequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old-config/prometheus.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="89" column="62" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old-config/docker-compose.yml_backup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old-config/otel-collector-config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rvparx/sog/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.48.0/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar!/io/opentelemetry/sdk/autoconfigure/AutoConfiguredOpenTelemetrySdk.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/opentelemetry/instrumentation/opentelemetry-spring-boot-autoconfigure/2.14.0/opentelemetry-spring-boot-autoconfigure-2.14.0.jar!/io/opentelemetry/instrumentation/spring/autoconfigure/OpenTelemetryAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1449">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/opentelemetry/instrumentation/opentelemetry-spring-boot-autoconfigure/2.14.0/opentelemetry-spring-boot-autoconfigure-2.14.0-sources.jar!/io/opentelemetry/instrumentation/spring/autoconfigure/OpenTelemetryAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old-config/tempo.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old-config/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old-config/collector-spring-native-config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/docker/config/collector/otel-collector.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="57" selection-start-line="57" selection-start-column="1" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/docker/docker-compose-otel-lgtm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="41" column="78" selection-start-line="41" selection-start-column="78" selection-end-line="41" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

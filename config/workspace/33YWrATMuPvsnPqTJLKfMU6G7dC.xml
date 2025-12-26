@@ -1,0 +1,547 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="dsp-crosstalk" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="240" selection-start-line="240" selection-end-line="240" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/jmq/RTopic.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/redisson/RedissonClient.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/bidder/ZPublisher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6552">
+              <caret line="313" selection-start-line="313" selection-end-line="313" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/BidderProtocol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2208">
+              <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Scanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18480">
+              <caret line="819" selection-start-line="819" selection-end-line="822" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/bidder/DeadmanSwitch.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/budget/BudgetController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2064">
+              <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Crosstalk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2952">
+              <caret line="146" selection-start-line="146" selection-end-line="146" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="14" lastUsed="1762680046314" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="52" lastUsed="1762680047151" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="7" lastUsed="1762680046997" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1759494684773" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="8" lastUsed="1759663591937" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="1" lastUsed="1759494864808" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1759494732129" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AccountingCampaign</find>
+      <find>bidders</find>
+      <find>SynchAll</find>
+      <find>start</find>
+      <find>main(</find>
+      <find>main</find>
+      <find>connect</find>
+      <find>commandsQueue</find>
+      <find>6000</find>
+      <find>deadmanSwitch</find>
+      <find>Error connecti</find>
+      <find>esponses are sen</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Configuration.java" />
+      <option value="$PROJECT_DIR$/config.json" />
+      <option value="$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Scanner.java" />
+      <option value="$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Crosstalk.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="52" lastUsage="1762680047151" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="7" lastUsage="1762680046997" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1759494684773" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1759494864808" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="8" lastUsage="1759663591937" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1759494732129" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dsp-crosstalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/dsp-platform/dsp-crosstalk}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsp-crosstalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/dsp-platform/dsp-crosstalk}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/JM_Project/dsp-platform/dsp-crosstalk/tools}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Crosstalk" />
+      <element setting="Application.MovingAverage" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="dsp-crosstalk-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9884000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Welcome to SonarQube for IDE" order="1" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.1799569" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.27904412" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.35992646" />
+      <window_info anchor="bottom" id="SonarQube for IDE" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.31213236" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2694853" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3298828" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="5" weight="0.3298828" />
+      <window_info anchor="right" id="AIAssistant" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.35992646" left="0.1799569" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>GitHub Copilot Chat</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="350" width="832" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110" timestamp="1759551354429">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="876" y="350" width="832" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759551354429" />
+    <state width="1014" height="690" key="DebuggerActiveHint.ideScale=110" timestamp="1759665089513">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="1014" height="690" key="DebuggerActiveHint.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759665089513" />
+    <state width="2502" height="344" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1760251221446">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="344" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221446" />
+    <state width="2502" height="344" key="GridCell.Tab.0.center.ideScale=110" timestamp="1760251221446">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="344" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221446" />
+    <state width="2502" height="344" key="GridCell.Tab.0.left.ideScale=110" timestamp="1760251221446">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="344" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221446" />
+    <state width="2502" height="344" key="GridCell.Tab.0.right.ideScale=110" timestamp="1760251221446">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="344" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221446" />
+    <state width="2502" height="454" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1760251221421">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="454" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221421" />
+    <state width="2502" height="454" key="GridCell.Tab.1.center.ideScale=110" timestamp="1760251221421">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="454" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221421" />
+    <state width="2502" height="454" key="GridCell.Tab.1.left.ideScale=110" timestamp="1760251221421">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="454" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221421" />
+    <state width="2502" height="454" key="GridCell.Tab.1.right.ideScale=110" timestamp="1760251221421">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2502" height="454" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1760251221421" />
+    <state x="937" y="366" width="675" height="655" key="StructurePopup.ideScale=110" timestamp="1759494820316">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="937" y="366" width="675" height="655" key="StructurePopup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759494820316" />
+    <state width="623" height="708" key="SwitcherDM.ideScale=110" timestamp="1759494966787">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="623" height="708" key="SwitcherDM.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759494966787" />
+    <state width="1284" height="694" key="XDebugger.FullValuePopup.ideScale=110" timestamp="1759663092043">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="1284" height="694" key="XDebugger.FullValuePopup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759663092043" />
+    <state x="848" y="469" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1759494710185">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="848" y="469" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759494710185" />
+    <state x="829" y="508" width="702" height="642" key="find.popup.ideScale=110" timestamp="1759665534472">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="829" y="508" width="702" height="642" key="find.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759665534472" />
+    <state x="856" y="321" width="840" height="1043" key="run.anything.popup.ideScale=110" timestamp="1759494949016">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="856" y="321" width="840" height="1043" key="run.anything.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759494949016" />
+    <state x="859" y="336" width="842" height="1046" key="search.everywhere.popup.ideScale=110" timestamp="1759665585359">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="859" y="336" width="842" height="1046" key="search.everywhere.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1759665585359" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>Configuration.getInstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Configuration.getInstance().deadmanSwitch</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="456">
+            <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/ScannerIF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/AccountingCampaign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/crosstalk">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/services/Zerospike.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Pubsub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Responses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Zeromq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Aerospike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simdata/debug.sim">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simdata/debug0.sim">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Elk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/budget/MovingAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/api/GetPriceCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/jmq/RTopic.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/redisson/RedissonClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/bidder/ZPublisher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6552">
+          <caret line="313" selection-start-line="313" selection-end-line="313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/BidderProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18480">
+          <caret line="819" selection-start-line="819" selection-end-line="822" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/Bidder-0.0.1-SNAPSHOT.jar!/com/jacamars/dsp/rtb/bidder/DeadmanSwitch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/budget/BudgetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2064">
+          <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Crosstalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2952">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jacamars/dsp/crosstalk/manager/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

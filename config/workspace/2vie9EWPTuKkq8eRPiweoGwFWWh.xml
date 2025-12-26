@@ -1,0 +1,724 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="central-campaign-root" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/repository/ContentCampaignRepositoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/config/AopConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/web/UtilRestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/aop/LogAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="72" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/logback-spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/config/MongoConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/service/ContentCampaignServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/central-campaign-service/src/test/java/com/rvparx/ccs/service/ContentCampaignServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1744977528229" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="27" lastUsed="1746342091362" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1744891870817" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="3" lastUsed="1744632257727" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="7" lastUsed="1746342091045" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="5" lastUsed="1746342091143" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>saveContentCampaign</find>
+      <find>Log</find>
+      <find>Enter</find>
+      <find>Entering</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/resources/openapi3/sedo-tmp.yaml" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccr/MainApp.java" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/resources/db/changelog/migration/2025-04-18-create-db.xml" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/CampaignEntity.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/StatusInfo.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/ContentCampaignEntity.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/ArticleEntity.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/MainApp.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/converter/JSR310DateConverters.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/converter/JSR310DateConverters.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/config/MongoConfig.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/service/ContentCampaignService.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/repository/ContentCampaignRepository.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/repository/ContentCampaignRepositoryImpl.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+      <option value="$PROJECT_DIR$/central-campaign-service/pom.xml" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/resources/logback-spring.xml" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/service/ContentCampaignServiceImpl.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/web/UtilRestController.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/config/AopConfig.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/aop/LogAspect.java" />
+      <option value="$PROJECT_DIR$/central-campaign-service/src/test/java/com/rvparx/ccs/service/ContentCampaignServiceImplTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="27" lastUsage="1746342091362" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1744891870817" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="3" lastUsage="1744632257727" />
+    </language>
+    <language id="XML">
+      <summary usageCount="7" lastUsage="1746342091045" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="5" lastUsage="1746342091143" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="central-campaign-service" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="central-campaign-service" type="20da4fc8:ProjectNode" />
+          <item name="Dependencies" type="f55f452e:DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/main/java/com/rvparx/ccs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="central-campaign-root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mjiang/JM/Project/central-campaign-root/central-campaign-service/src/test/java/com/rvparx/ccs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.ContentCampaignServiceImplTest.test_xx" />
+      <element setting="Spring Boot.MainApp" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="central-campaign-root-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ContentCampaignServiceImplTest_test_xx - 2025.04.27 at 17h 22m 06s.xml">
+      <configuration name="ContentCampaignServiceImplTest.test_xx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContentCampaignServiceImplTest_test_xx - 2025.04.27 at 17h 22m 28s.xml">
+      <configuration name="ContentCampaignServiceImplTest.test_xx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContentCampaignServiceImplTest_test_xx - 2025.04.27 at 17h 25m 13s.xml">
+      <configuration name="ContentCampaignServiceImplTest.test_xx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContentCampaignServiceImplTest_test_xx - 2025.04.27 at 17h 25m 24s.xml">
+      <configuration name="ContentCampaignServiceImplTest.test_xx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContentCampaignServiceImplTest_test_xx - 2025.04.27 at 17h 26m 03s.xml">
+      <configuration name="ContentCampaignServiceImplTest.test_xx" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20401000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1713362" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34922317" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40036765" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22610295" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32977942" />
+      <window_info anchor="right" id="Key Promoter X" order="0" weight="0.3298828" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.27011716" />
+      <window_info anchor="right" id="Tabnine Chat" order="2" />
+      <window_info anchor="right" id="Endpoints" order="3" />
+      <window_info anchor="right" id="Beans" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="AIAssistant" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25035918" />
+      <unified_weights bottom="0.34922317" left="0.1713362" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Debug</value>
+      <value>Key Promoter X</value>
+      <value>Maven</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="170" key="#Project_Structure.ideScale=110" timestamp="1744977098624">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="636" y="170" key="#Project_Structure.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744977098624" />
+    <state x="1042" y="318" key="#com.intellij.ide.util.MemberChooser.ideScale=110" timestamp="1744977384292">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1042" y="318" key="#com.intellij.ide.util.MemberChooser.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744977384292" />
+    <state x="1067" y="436" key="#com.intellij.ide.util.PackageChooserDialog.ideScale=110" timestamp="1744976537470">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1067" y="436" key="#com.intellij.ide.util.PackageChooserDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744976537470" />
+    <state x="922" y="516" key="#com.intellij.refactoring.memberPullUp.PullUpDialog.ideScale=110" timestamp="1744976786492">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="922" y="516" key="#com.intellij.refactoring.memberPullUp.PullUpDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744976786492" />
+    <state x="1083" y="527" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.ideScale=110" timestamp="1744799550269">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1083" y="527" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744799550269" />
+    <state width="2503" height="343" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1745738763097">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738763097" />
+    <state width="2503" height="343" key="GridCell.Tab.0.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.0.center.ideScale=110" timestamp="1745738763097">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738763097" />
+    <state width="2503" height="343" key="GridCell.Tab.0.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.0.left.ideScale=110" timestamp="1745738763097">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738763097" />
+    <state width="2503" height="343" key="GridCell.Tab.0.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.0.right.ideScale=110" timestamp="1745738763097">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738763097" />
+    <state width="2503" height="343" key="GridCell.Tab.0.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1745738527852">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738527852" />
+    <state width="2503" height="343" key="GridCell.Tab.1.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.1.center.ideScale=110" timestamp="1745738527852">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738527852" />
+    <state width="2503" height="343" key="GridCell.Tab.1.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.1.left.ideScale=110" timestamp="1745738527852">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738527852" />
+    <state width="2503" height="343" key="GridCell.Tab.1.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="343" key="GridCell.Tab.1.right.ideScale=110" timestamp="1745738527852">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="343" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738527852" />
+    <state width="2503" height="343" key="GridCell.Tab.1.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143850504" />
+    <state width="2503" height="509" key="GridCell.Tab.2.bottom.ideScale=110" timestamp="1745143833122">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="509" key="GridCell.Tab.2.bottom.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143833122" />
+    <state width="2503" height="509" key="GridCell.Tab.2.center.ideScale=110" timestamp="1745143833122">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="509" key="GridCell.Tab.2.center.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143833122" />
+    <state width="2503" height="509" key="GridCell.Tab.2.left.ideScale=110" timestamp="1745143833122">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="509" key="GridCell.Tab.2.left.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143833122" />
+    <state width="2503" height="509" key="GridCell.Tab.2.right.ideScale=110" timestamp="1745143833122">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state width="2503" height="509" key="GridCell.Tab.2.right.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745143833122" />
+    <state x="948" y="333" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110" timestamp="1744975295597">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="948" y="333" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744975295597" />
+    <state x="1000" y="456" key="com.intellij.testIntegration.createTest.CreateTestDialog.ideScale=110" timestamp="1745738480841">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="1000" y="456" key="com.intellij.testIntegration.createTest.CreateTestDialog.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1745738480841" />
+    <state x="880" y="312" width="800" height="776" key="new project wizard.ideScale=110" timestamp="1744632256768">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="880" y="312" width="800" height="776" key="new project wizard.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744632256768" />
+    <state x="856" y="320" width="840" height="1043" key="run.anything.popup.ideScale=110" timestamp="1745134602050">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="856" y="320" width="840" height="1043" key="run.anything.popup.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744973369706" />
+    <state x="856" y="320" width="840" height="1043" key="run.anything.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745134602050" />
+    <state x="859" y="309" width="842" height="1046" key="search.everywhere.popup.ideScale=110" timestamp="1745134513060">
+      <screen x="0" y="0" width="2560" height="1384" />
+    </state>
+    <state x="859" y="309" width="842" height="1046" key="search.everywhere.popup.ideScale=110/0.0.2560.1384/0.0.1920.1080@0.0.2560.1384" timestamp="1744891869058" />
+    <state x="859" y="309" width="842" height="1046" key="search.everywhere.popup.ideScale=110/0.0.2560.1384@0.0.2560.1384" timestamp="1745134513060" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/openapi3/sedo-tmp.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+      <provider editor-type-id="intellij.swagger.ui.editor.with.preview">
+        <state>
+          <general_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/db/changelog/migration/2025-04-18-create-db.xml" />
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/StatusInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/CampaignEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/converter/JSR310DateConverters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/service/ContentCampaignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/repository/ContentCampaignRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/4.4.4/spring-data-mongodb-4.4.4.jar!/org/springframework/data/mongodb/core/query/Criteria.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/ContentCampaignEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/domain/ArticleEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" selection-start-line="13" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/repository/ContentCampaignRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/config/AopConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/web/UtilRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/aop/LogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="72" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/config/MongoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/main/java/com/rvparx/ccs/service/ContentCampaignServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-campaign-service/src/test/java/com/rvparx/ccs/service/ContentCampaignServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>java-17-openjdk-amd64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>central-campaign-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+.expanded > .preview, .expanded.preview  {
+    background-image: url("icons/node-expanded.png?stamp=0");
+}
+
+
+.collapsed > .preview, .collapsed.preview  {
+    background-image: url("icons/node-collapsed.png?stamp=0");
+}
+
+
+.level-warning .result-icon {
+    background-image: url("icons/warning.png?stamp=0");
+}
+
+.level-error .result-icon {
+    background-image: url("icons/error.png?stamp=0");
+}
+
+.level-info .result-icon {
+    background-image: url("icons/info.png?stamp=0");
+}
+
+.message-input .result-icon {
+    background-image: url("icons/prompt.png?stamp=0");
+}
+
+.message-result .result-icon {
+    background-image: url("icons/evaluationResult.png?stamp=0");
+}

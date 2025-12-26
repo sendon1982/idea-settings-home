@@ -1,0 +1,1626 @@
+{
+  "status": 200,
+  "cache_flag": 0,
+  "reason": "",
+  "data": {
+    "game_info": {
+      "is_mm": 0,
+      "pro_category": [],
+      "sub_category": [],
+      "published_language": [
+        {
+          "id": 468,
+          "value": "德语"
+        },
+        {
+          "id": 465,
+          "value": "英语"
+        },
+        {
+          "id": 466,
+          "value": "简体中文"
+        },
+        {
+          "id": 467,
+          "value": "繁体中文"
+        }
+      ],
+      "is_expansion": 0,
+      "mod_type": 1,
+      "is_pg": 0,
+      "box_url": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg",
+      "gamelist_info": {
+        "num": 542,
+        "gamelist_list": [
+          {
+            "list_describe": "游戏支持2至多人，但以二人体验最佳！",
+            "if_login_info": {},
+            "game_info": {
+              "is_mm": 0,
+              "sub_category": "[]",
+              "is_expansion": 0,
+              "mod_type": 1,
+              "is_pg": 0,
+              "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/20190913/1568622287165058350.jpg",
+              "primary_language": "ENG",
+              "id": 590,
+              "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB2ksLAAYxmpuFjSZJiXXXauVXa_!!528725041507649110627.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "publish_year": 2012,
+              "sales_mode": {
+                "id": 0,
+                "value": ""
+              },
+              "status": 310,
+              "expansion_type": 0,
+              "width_height": 1.008,
+              "is_glight": 0,
+              "cover_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB2ksLAAYxmpuFjSZJiXXXauVXa_!!528725041507649110627.png",
+              "first_picture": {
+                "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB2ksLAAYxmpuFjSZJiXXXauVXa_!!528725041507649110627.png",
+                "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB2ksLAAYxmpuFjSZJiXXXauVXa_!!528725041507649110627.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+                "width_height": 1.008
+              },
+              "status_content": {
+                "id": 310,
+                "value": "已出版"
+              },
+              "name": "四季物语",
+              "game_hotness_value": 628550.0,
+              "sales_mode_id": 0,
+              "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20190913/1568622287165058350.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "publish_month": 0
+            },
+            "reply_num": 12,
+            "create_man_id": 106738,
+            "like_num": 375,
+            "create_man_info": {
+              "photo": "https://oss.gstonegames.com/static/image/user_photo/self_a_2416257903061_6soezizv.jpeg",
+              "detail_info": {
+                "exp_level": 309,
+                "title": {
+                  "title_sch": "世界唯一の神",
+                  "title_eng": "The Only God"
+                },
+                "mm_is_answer": 0,
+                "organizer_medal_ls": [],
+                "vip_info": {
+                  "vip_photo": "",
+                  "vip_photo_small": "",
+                  "vip_type": 0,
+                  "end_time": "1970-01-01 00:00:00",
+                  "is_vip": 0
+                },
+                "badge": "https://oss.gstonegames.com/static/image/user_badge/v1/master.png"
+              },
+              "sex": 1,
+              "is_master": 1,
+              "nickname": "米饭君",
+              "id": 106738
+            },
+            "list_name": "二人体验最佳的桌游",
+            "id": 1529
+          },
+          {
+            "list_describe": "作为一个外貌协会成员，希望可以多多收集颜值高的游戏。ps:好看不等于好玩。。。",
+            "if_login_info": {},
+            "game_info": {
+              "is_mm": 0,
+              "sub_category": "[]",
+              "is_expansion": 0,
+              "mod_type": 1,
+              "is_pg": 0,
+              "box_url": "",
+              "primary_language": "ENG",
+              "id": 11646,
+              "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20200430/1588241363877_416be50e.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "publish_year": 2019,
+              "sales_mode": {
+                "id": 0,
+                "value": ""
+              },
+              "status": 310,
+              "expansion_type": 0,
+              "width_height": 1.0,
+              "is_glight": 0,
+              "cover_url": "https://oss.gstonegames.com/static/image/gameimgZh/20200430/1588241363877_416be50e.jpg",
+              "first_picture": {
+                "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/20200430/1588241363877_416be50e.jpg",
+                "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20200430/1588241363877_416be50e.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+                "width_height": 1.0
+              },
+              "status_content": {
+                "id": 310,
+                "value": "已出版"
+              },
+              "name": "国家公园：自然之旅",
+              "game_hotness_value": 337120.0,
+              "sales_mode_id": 0,
+              "box_url_s": "",
+              "publish_month": 0
+            },
+            "reply_num": 43,
+            "create_man_id": 132704,
+            "like_num": 317,
+            "create_man_info": {
+              "photo": "https://oss.gstonegames.com/static/image/user_photo/self_a_1507805074161_d9wb2ibz.jpeg",
+              "detail_info": {
+                "exp_level": 136,
+                "title": {
+                  "title_sch": "神采奕奕的看门狗",
+                  "title_eng": "Glowing Watchdog"
+                },
+                "mm_is_answer": 0,
+                "organizer_medal_ls": [],
+                "vip_info": {
+                  "vip_photo": "",
+                  "vip_photo_small": "",
+                  "vip_type": 0,
+                  "end_time": "1970-01-01 00:00:00",
+                  "is_vip": 0
+                },
+                "badge": "https://oss.gstonegames.com/static/image/user_badge/v1/master.png"
+              },
+              "sex": 2,
+              "is_master": 1,
+              "nickname": "陳大白",
+              "id": 132704
+            },
+            "list_name": "颜控的选择",
+            "id": 1568
+          },
+          {
+            "list_describe": "从零开始记录自己喜欢过的桌游。\n\n排名先后根据主观意愿，其中受到以下因素影响较大：\n1.游戏内有独特且体验较好的机制内容\n2.游戏逻辑通顺\n3.游戏规则简洁\n4.游戏体量大重开性好套路化不严重\n5.没有长线且大段的故事书\n6.依据游戏性的上限，同系列（相似体验）只排最佳一作。\n\n1.24 增加 农场主、心灵特工\n2.08 增加 奥尔良、冥海航迹\n2.10 增加 方舟动物园\n2.18 增加 勃艮第城堡\n2.23 更新 根据Ranking Engine\n3.02 增加 太空基地、漫威群英传\n3.04 增加 创世发明\n4.01 增加 镰刀战争\n4.11 更新 大幅度改动\n4.30 增加 神秘大地\n6.05 增加 盖亚计划 替换 神秘大地\n6.14 增加 蟑螂沙拉、作弊黄蜂\n6.19 增加 clank！、庄园迷情\n7.09 增加 杀杀杀\n7.18 增加 康考迪亚、葡萄酒庄园\n7.28 增加 皇舆争霸\n7.28 增加 golf 替换 CABO\n8.10 增加 蒂尔特之辉\n8.14 增加 Push、牛头X\n9.12 增加 银河卡车司机、大创造时代 替换 盖亚计划、末日决战：墓都传承替换末日决战\n9.15 增加 伊斯坦堡\n9.29 增加 历史巨轮\n10.15 增加 银币之城、Z3BRA、叛逆公主\n11.15 增加 谍报风云\n11.26 增加 核子激荡\n12.28 增加 钟表匠\n\n2024\n1.21 增加 La Vina、洞穴农夫替换农场主\n2.25 增加 沙丘帝国\n3.18 增加 X行星之谜、图灵机\n3.23 增加 快餐连锁大亨\n4.08 增加 奥地利大饭店\n4.15 增加 牛顿\n4.24 增加 太空议会\n5.02 增加 斯凯岛\n5.12 增加 Heat\n6.21 增加 号外！动物日报、科科佩利\n8.04 增加 疯王城堡\n9.07 增加 强国争坝\n11.01 增加 异端者\n11.24 增加 时空乱序\n12.24 增加 尼达维尔\n\n2025\n1.2 增加 淑女与绅士\n1.4 增加 终极铁路\n5.11 增加 天合小队\n6.14 增加 SETI、港都情浓\n8.13 增加 卓尔金历、瘟疫危机传承：第一季\n8.21 增加 圣域：血与沙、银河开拓史\n10.16 增加 达尔文的旅程、原始：凶兽觉醒\n11.12 增加 姬路城、大魔术师",
+            "if_login_info": {},
+            "game_info": {
+              "is_mm": 0,
+              "sub_category": "[]",
+              "is_expansion": 0,
+              "mod_type": 1,
+              "is_pg": 0,
+              "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/20190913/1568605349922887246.jpg",
+              "primary_language": "ENG",
+              "id": 715,
+              "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB1uysdKXXXXXbIXXXXXXXXXXXX_!!0-item_pic15077533343071538050145241.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "publish_year": 2015,
+              "sales_mode": {
+                "id": 0,
+                "value": ""
+              },
+              "status": 310,
+              "expansion_type": 0,
+              "width_height": 1.0,
+              "is_glight": 0,
+              "cover_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB1uysdKXXXXXbIXXXXXXXXXXXX_!!0-item_pic15077533343071538050145241.jpg",
+              "first_picture": {
+                "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB1uysdKXXXXXbIXXXXXXXXXXXX_!!0-item_pic15077533343071538050145241.jpg",
+                "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB1uysdKXXXXXbIXXXXXXXXXXXX_!!0-item_pic15077533343071538050145241.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+                "width_height": 1.0
+              },
+              "status_content": {
+                "id": 310,
+                "value": "已出版"
+              },
+              "name": "七大奇迹：对决",
+              "game_hotness_value": 914934.0,
+              "sales_mode_id": 0,
+              "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20190913/1568605349922887246.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "publish_month": 0
+            },
+            "reply_num": 28,
+            "create_man_id": 157061,
+            "like_num": 197,
+            "create_man_info": {
+              "photo": "https://oss.gstonegames.com/static/image/user_photo/photo_8.png",
+              "detail_info": {
+                "exp_level": 207,
+                "title": {
+                  "title_sch": "桌游练习生",
+                  "title_eng": "Tabletop Games Trainee"
+                },
+                "mm_is_answer": 0,
+                "organizer_medal_ls": [],
+                "vip_info": {
+                  "vip_photo": "",
+                  "vip_photo_small": "",
+                  "vip_type": 0,
+                  "end_time": "1970-01-01 00:00:00",
+                  "is_vip": 0
+                },
+                "badge": "https://oss.gstonegames.com/static/image/user_badge/v1/master.png"
+              },
+              "sex": 1,
+              "is_master": 1,
+              "nickname": "七决",
+              "id": 157061
+            },
+            "list_name": "一名桌游新人的桌游top100（更新加勒多尼亚）",
+            "id": 4161
+          }
+        ]
+      },
+      "all_rating_num": 12950,
+      "document_info": {
+        "doc_list": [
+          {
+            "document_title": "Official Rulebook",
+            "document_image_url_s": "https://oss.gstonegames.com/static/image/document/202312/c_9610227363071_c4141394.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "document_image_url": "https://oss.gstonegames.com/static/image/document/202312/c_9610227363071_c4141394.jpg",
+            "create_time": "2023-12-27 08:33:48",
+            "document_url": "",
+            "document_image_width_height": 0.742,
+            "id": 4543
+          },
+          {
+            "document_title": "官方游戏规则",
+            "document_image_url_s": "https://oss.gstonegames.com/static/image/document/202506/c_6041313369471_5647ab2c.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "document_image_url": "https://oss.gstonegames.com/static/image/document/202506/c_6041313369471_5647ab2c.jpg",
+            "create_time": "2025-06-11 17:12:29",
+            "document_url": "",
+            "document_image_width_height": 0.737,
+            "id": 5562
+          }
+        ],
+        "num": 2
+      },
+      "p_description": "Castles of Burgundy is a legendary Board Game design created by Stefan Feld. In this 1-4 players tabletop experience, you will take on the role of an aristocrat controlling a small princedom. Trying to build a settlement with powerful castles, practice trades, exploit silver mines, and use the knowledge of travelers.\n\nNow, this timeless game is coming back with an extremely polished, high-end special edition resulting from a collaboration between Ravensburger and Awaken Realms.\n\nIn this special edition, you can expect a complete re-design of art and layout to ensure that every piece will have great art and enhance in-game usability. Only the best materials (cardboard, cart paper, box, insert, etc.) will be used to provide endurance, and a premium feel. Many extra components will bring the gaming experience to the next level, such as double-layered player boards, special bags for hexes, 30% bigger tiles, or metal coins.\n\nThe Castles of Burgundy is set in the Burgundy region of High Medieval France. Each player takes on the role of an aristocrat, originally controlling a small princedom. While playing, they aim to build settlements and powerful castles, practice trade along the river, exploit silver mines, and use the knowledge of travelers.\n\nThe game is about players taking settlement tiles from the game board and placing them into their princedom, which is represented by a Duchy board that is placed in the Player board.",
+      "primary_language": "ENG",
+      "ranking_ls": [
+        {
+          "id": 1,
+          "value": 3,
+          "name": "gstone_ranking"
+        },
+        {
+          "id": 3,
+          "value": 17,
+          "name": "hot_ranking"
+        },
+        {
+          "id": 4,
+          "value": 3,
+          "name": "game_ranking"
+        },
+        {
+          "id": 2,
+          "value": 1,
+          "name": "bgg_ranking"
+        },
+        {
+          "id": 288,
+          "value": 1,
+          "name": "euro_style_ranking"
+        }
+      ],
+      "language_requirement": {
+        "id": 298,
+        "value": "不需要"
+      },
+      "video_info_v2": {
+        "video_ls": [
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "https://www.bilibili.com/video/BV1DG411R7dv/?vd_source=bcbca843644f30b60f22d1c030d2078b",
+              "picture": "https://oss.gstonegames.com/static/image/article/202309/c_9298453934961_96a4e617.jpg",
+              "id": 7974,
+              "title": "【柏然玩桌游】颜值即正义！勃艮第城堡|开箱|收纳|教学|葡萄园"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "https://www.bilibili.com/video/BV1rZ421E73n/?spm_id_from=333.999.0.0&vd_source=f7158739dbb3dfca7900d00ad9b50349",
+              "picture": "https://oss.gstonegames.com/static/image/article/202405/c_0119943715171_62f902b0.jpg",
+              "id": 8468,
+              "title": "《勃艮地城堡：特别典藏版》介绍，评测，购买建议"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "https://www.bilibili.com/video/BV11F4m1F7vZ/?vd_source=bcbca843644f30b60f22d1c030d2078b",
+              "picture": "https://oss.gstonegames.com/static/image/article/202403/c_7650212921171_ffb98d07.jpg",
+              "id": 8393,
+              "title": "【柏然快讲】中策数来宝！《勃艮第城堡》70秒快讲"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "",
+              "picture": "https://oss.gstonegames.com/static/image/article/202311/c_0585393719961_7b5e54e4.jpg",
+              "id": 8086,
+              "title": "《勃艮第城堡》全扩桌游规则教学"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "",
+              "picture": "https://oss.gstonegames.com/static/image/article/202308/c_1756944622961_44966ca9.jpg",
+              "id": 7926,
+              "title": "《勃艮第城堡》典藏版开箱——卡多乐多桌游店"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "https://www.bilibili.com/video/BV1D94y1p7rF/?vd_source=f7158739dbb3dfca7900d00ad9b50349#reply363813855",
+              "picture": "https://oss.gstonegames.com/static/image/article/202309/c_3840748255961_2bcbbee4.jpg",
+              "id": 7999,
+              "title": "【七色的桌游评测】集石评分第一的桌游名副其实吗？《勃艮第城堡：特别典藏版》"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "",
+              "picture": "https://oss.gstonegames.com/static/image/article/202401/c_5842394455071_1b9e88ed.jpg",
+              "id": 8282,
+              "title": "吃下7层汉堡我赢下了这个桌游 vlog"
+            }
+          },
+          {
+            "video_url_aiqiyi": "",
+            "video_url_youku": "",
+            "video_type": [],
+            "video_url_other": "",
+            "key_frame_s": "",
+            "id": 0,
+            "video_url_B": "",
+            "key_frame": "",
+            "video_url_youtube": "",
+            "video_url_tencent": "",
+            "article_info": {
+              "url": "",
+              "picture": "https://oss.gstonegames.com/static/image/article/202311/c_5036504719961_1af65c2c.jpg",
+              "id": 8087,
+              "title": "《勃艮第城堡》典藏版收纳（无加购）"
+            }
+          }
+        ],
+        "num": 8
+      },
+      "p_name": "The Castles Of Burgundy: Special Edition",
+      "id": 32658,
+      "count_info": {
+        "discuss_num": 404,
+        "comment_num": 1311,
+        "article_num": 14
+      },
+      "description": "故事发生在15世纪的法国中部勃良第。在游戏中你将扮演极具影响力的公爵，需要通过策略性的扩张与贸易，来领导自己的庄园迈向兴盛与繁荣。\n\n投掷你的骰子，展示无限可能，探索策略之道，引你走向胜利。贸易、畜牧、建造或研究，通往繁荣与名望的道路任你选择。在这款建造策略类游戏中，有许多获得分数的方式。请明智地挑选你的策略!得益于多种多样的公国版图，即使对于有经验的玩家，《勃艮第城堡》也能为其提供无限的重玩性与挑战。\n\n游戏结束时分数最高的玩家获得胜利!",
+      "category": [
+        {
+          "id": 288,
+          "value": "德式"
+        }
+      ],
+      "gamefound": "",
+      "need_dm": 0,
+      "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+      "if_login_info": {},
+      "table_requirement": {
+        "id": 307,
+        "value": "中"
+      },
+      "average_time_per_player": 30,
+      "picture_info": {
+        "picture_ls": [
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_16913167500548491.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_16913167500548491.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691316749778013.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691316749778013.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_169131674951928.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_169131674951928.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691316748653267.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691316748653267.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691867615485409.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691867615485409.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691867610774956.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691867610774956.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1665455201910798.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1665455201910798.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1665455199244097.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1665455199244097.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_16654551951490011.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_16654551951490011.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_17187621260401502.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_17187621260401502.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1690995859853568.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1690995859853568.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1690995859017511.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1690995859017511.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1694919568311432.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1694919568311432.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691681012105132.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691681012105132.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_169134296739396.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_169134296739396.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691342966199852.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/b_1691342966199852.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_4828413366271_1fynq4v4.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_4828413366271_1fynq4v4.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_0296076637961_x3va1aix.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_0296076637961_x3va1aix.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_1175076637961_oymm60ao.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_1175076637961_oymm60ao.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_1509966637961_r32s0xc7.jpeg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/game_comment_gallery/a_1509966637961_r32s0xc7.jpeg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "id": 1
+          }
+        ],
+        "num": 1395
+      },
+      "website": "",
+      "theme": [
+        {
+          "id": 418,
+          "value": "中世纪"
+        }
+      ],
+      "sales_mode_id": 0,
+      "publisher_ls": [
+        {
+          "id": "404",
+          "name": "Awaken Realms"
+        },
+        {
+          "id": "795",
+          "name": "Ravensburger Spieleverlag GmbH"
+        },
+        {
+          "id": "28",
+          "name": "游卡核心桌游工作室"
+        },
+        {
+          "id": "130",
+          "name": "玩乐小子"
+        }
+      ],
+      "bgg_id": 363622,
+      "role_sex_info": {
+        "she_num": 0,
+        "it_num": 0,
+        "he_num": 0
+      },
+      "designer_ls": [
+        {
+          "id": "101",
+          "name": "Stefan Feld"
+        }
+      ],
+      "sales_mode": {
+        "id": 0,
+        "value": ""
+      },
+      "total_time": 90,
+      "group_info": {
+        "num": 1,
+        "group_list": [
+          {
+            "id": 76382,
+            "group_name": "《勃艮第城堡：特别典藏版》游戏1群"
+          }
+        ]
+      },
+      "designer": "[\"101\"]",
+      "expansion_type": 0,
+      "box_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+      "width_height": 0.981,
+      "is_glight": 0,
+      "kickstarter": "",
+      "other_info": {
+        "website": "",
+        "crowdfunding_web_ls": [],
+        "bgg_id": 363622,
+        "sleeves_ls": [],
+        "app_ls": []
+      },
+      "role_info": {
+        "role_list": [],
+        "num": 0,
+        "role_type": {
+          "id": 978,
+          "value": "角色"
+        }
+      },
+      "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg",
+      "setup_time": {
+        "id": 536,
+        "value": "5-10分钟"
+      },
+      "difficulty": 5,
+      "minimum_age": 12,
+      "team_info": {
+        "team_list": [],
+        "num": 0,
+        "team_type": {
+          "id": 0,
+          "value": ""
+        }
+      },
+      "player_num": [
+        1,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "homepage_info": {
+        "num": 2,
+        "gallery_ls": [
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "width_height": 0.981
+          },
+          {
+            "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg",
+            "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "width_height": 1.031
+          }
+        ]
+      },
+      "publisher": "[\"404\", \"795\", \"28\", \"130\"]",
+      "version_info": {
+        "version_list": [
+          {
+            "version_link_type_v2": 3,
+            "version_language": "[\"466\"]",
+            "currency": {
+              "id": 705,
+              "value": "¥"
+            },
+            "id": 4050,
+            "shop_url": "pages/proDetail/proDetail.html?id=1304",
+            "version_type": {
+              "id": 907,
+              "value": "下市"
+            },
+            "game_info": {
+              "status": 310,
+              "is_mm": 0,
+              "mod_type": 1,
+              "expansion_type": 0,
+              "sub_category": "[]",
+              "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "is_glight": 0,
+              "width_height": 0.981,
+              "is_expansion": 0,
+              "gstone_rating": 9.08863,
+              "is_pg": 0,
+              "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg",
+              "sales_mode_id": 0,
+              "first_picture": {
+                "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg",
+                "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+                "width_height": 0.981
+              },
+              "box_url": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg",
+              "box_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "primary_language": "ENG",
+              "status_content": {
+                "id": 310,
+                "value": "已出版"
+              },
+              "sales_mode": {
+                "id": 0,
+                "value": ""
+              },
+              "id": 32658,
+              "name": "勃艮第城堡：特别典藏版"
+            },
+            "platform": {
+              "id": 1193,
+              "value": "新物集"
+            },
+            "publisher_info": {
+              "id": 28,
+              "name": "游卡核心桌游工作室"
+            },
+            "version_end_time": "2023-05-02 00:00:00",
+            "picture": "",
+            "update_time": "1970-01-01 00:00:00",
+            "version_language_ls": [
+              {
+                "id": 466,
+                "value": "简体中文"
+              }
+            ],
+            "description": "",
+            "price": 738.0,
+            "version_publisher": 28,
+            "game_id": 32658,
+            "version_name": "新物集中文版",
+            "shop_mp_url": "pages/proDetail/proDetail.html?id=1304",
+            "is_youzan": 0,
+            "goods_create_time": "2023-04-19 21:47:40",
+            "version_url": "pages/proDetail/proDetail.html?id=1304",
+            "version_url_v2": "pages/proDetail/proDetail.html?id=1304",
+            "version_start_time": "2023-04-26 00:00:00"
+          },
+          {
+            "version_link_type_v2": 1,
+            "version_language": "[\"466\"]",
+            "currency": {
+              "id": 705,
+              "value": "¥"
+            },
+            "id": 4606,
+            "shop_url": "https://xinwuji.com/pc/#/detail?id=2115",
+            "version_type": {
+              "id": 907,
+              "value": "下市"
+            },
+            "game_info": {
+              "status": 310,
+              "is_mm": 0,
+              "mod_type": 1,
+              "expansion_type": 0,
+              "sub_category": "[]",
+              "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "is_glight": 0,
+              "width_height": 0.981,
+              "is_expansion": 0,
+              "gstone_rating": 9.08863,
+              "is_pg": 0,
+              "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg",
+              "sales_mode_id": 0,
+              "first_picture": {
+                "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg",
+                "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_7103447113561_863bce98.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+                "width_height": 0.981
+              },
+              "box_url": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg",
+              "box_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202310/c_8515175048961_b437c971.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "primary_language": "ENG",
+              "status_content": {
+                "id": 310,
+                "value": "已出版"
+              },
+              "sales_mode": {
+                "id": 0,
+                "value": ""
+              },
+              "id": 32658,
+              "name": "勃艮第城堡：特别典藏版"
+            },
+            "platform": {
+              "id": 1193,
+              "value": "新物集"
+            },
+            "publisher_info": {
+              "id": 28,
+              "name": "游卡核心桌游工作室"
+            },
+            "version_end_time": "2024-05-23 00:00:00",
+            "picture": "",
+            "update_time": "1970-01-01 00:00:00",
+            "version_language_ls": [
+              {
+                "id": 466,
+                "value": "简体中文"
+              }
+            ],
+            "description": "",
+            "price": 758.0,
+            "version_publisher": 28,
+            "game_id": 32658,
+            "version_name": "新物集预售版",
+            "shop_mp_url": "",
+            "is_youzan": 0,
+            "goods_create_time": "2024-05-09 16:19:36",
+            "version_url": "https://xinwuji.com/pc/#/detail?id=2115",
+            "version_url_v2": "",
+            "version_start_time": "1970-01-01 00:00:00"
+          }
+        ],
+        "num": 2
+      },
+      "name": "勃艮第城堡：特别典藏版",
+      "portability": {
+        "id": 475,
+        "value": "难以携带"
+      },
+      "mm_rating_info": {},
+      "medal_ls": [
+        {
+          "icon_url": "",
+          "id": 206,
+          "medal_type": 0,
+          "medal_name": "GGA年度德式桌游入围"
+        }
+      ],
+      "moudian": "",
+      "usersrated": 10313,
+      "relation_info": {
+        "relation_game_ids": [
+          668,
+          32659,
+          32661,
+          32660,
+          32663,
+          42343,
+          32662,
+          42341,
+          42344,
+          42704,
+          42342
+        ],
+        "num": 11,
+        "relation_index_ls": [
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg",
+            "primary_language": "ENG",
+            "id": 668,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/pic11768941507444917351.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2011,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 0.716,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/pic11768941507444917351.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.845
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃根地城堡",
+            "game_hotness_value": 526170.0,
+            "sales_mode_id": 0,
+            "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 32659,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_2806767113561_b5050671.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 751,
+            "width_height": 0.929,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_2806767113561_b5050671.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_2806767113561_b5050671.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_2806767113561_b5050671.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.929
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 解锁大盒",
+            "game_hotness_value": 16224.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 32661,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_8569297113561_ad222d12.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 751,
+            "width_height": 0.861,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_8569297113561_ad222d12.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_8569297113561_ad222d12.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_8569297113561_ad222d12.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.861
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 商路",
+            "game_hotness_value": 13868.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 32660,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_4858487113561_3c3c03e4.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 751,
+            "width_height": 0.694,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_4858487113561_3c3c03e4.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_4858487113561_3c3c03e4.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_4858487113561_3c3c03e4.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.694
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 全新公国版图，白色城堡、旅店与额外六角片",
+            "game_hotness_value": 12231.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 32663,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_1458318113561_16e9cfb3.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 751,
+            "width_height": 0.731,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_1458318113561_16e9cfb3.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_1458318113561_16e9cfb3.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_1458318113561_16e9cfb3.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.731
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 盾徽与德国冠军赛版图",
+            "game_hotness_value": 10382.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 42343,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5260939686171_8e65ffee.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 1322,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5260939686171_8e65ffee.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5260939686171_8e65ffee.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5260939686171_8e65ffee.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 丙烯酸图块",
+            "game_hotness_value": 8048.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 32662,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_9382608113561_5ef184bc.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 751,
+            "width_height": 0.804,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_9382608113561_5ef184bc.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_9382608113561_5ef184bc.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202205/c_9382608113561_5ef184bc.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.804
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 团队与单人游戏",
+            "game_hotness_value": 7521.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 42341,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_6240409686171_41a3fb77.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 1322,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_6240409686171_41a3fb77.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_6240409686171_41a3fb77.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_6240409686171_41a3fb77.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 丙烯酸板块",
+            "game_hotness_value": 7124.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 42344,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5469749686171_cf41b6f2.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 1322,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5469749686171_cf41b6f2.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5469749686171_cf41b6f2.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202405/c_5469749686171_cf41b6f2.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃艮第城堡：特别典藏版 - 3D地形包",
+            "game_hotness_value": 6044.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 1,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/202406/c_5502169009171_10618e6d.jpg",
+            "primary_language": "SCH",
+            "id": 42704,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/202406/c_4212069009171_3385eb20.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2019,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 751,
+            "width_height": 1.333,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgZh/202406/c_4212069009171_3385eb20.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/202406/c_4212069009171_3385eb20.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/202406/c_4212069009171_3385eb20.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.333
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃根地城堡：新扩充 - 盾牌",
+            "game_hotness_value": 4622.0,
+            "sales_mode_id": 0,
+            "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/202406/c_5502169009171_10618e6d.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_month": 0
+          }
+        ]
+      },
+      "game_hotness_value": 769633.0,
+      "zeze": "",
+      "video_info": {
+        "video_ls": [],
+        "num": 0
+      },
+      "publish_year": 2023,
+      "status": {
+        "id": 310,
+        "value": "已出版"
+      },
+      "mode": {
+        "id": 295,
+        "value": "竞争"
+      },
+      "mechanic": [
+        {
+          "id": 340,
+          "value": "投骰子"
+        },
+        {
+          "id": 362,
+          "value": "版块放置"
+        },
+        {
+          "id": 359,
+          "value": "成套收集"
+        },
+        {
+          "id": 364,
+          "value": "可变行动顺序"
+        }
+      ],
+      "gstone_rating": 9.08863,
+      "similar_info": {
+        "similar_ls": [
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 33264,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202206/c_2057372435561_ae4f0120.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2023,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 1.37,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202206/c_2057372435561_ae4f0120.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202206/c_2057372435561_ae4f0120.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202206/c_2057372435561_ae4f0120.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.37
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "村庄：大盒版",
+            "game_hotness_value": 79640.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 34738,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202209/c_5377670344661_0a210392.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2022,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202209/c_5377670344661_0a210392.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202209/c_5377670344661_0a210392.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202209/c_5377670344661_0a210392.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "Nine Dice Kingdom",
+            "game_hotness_value": 1395.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/202409/c_5058762437271_2cbf417e.jpg",
+            "primary_language": "ENG",
+            "id": 42158,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/202409/c_9511762437271_b5da9b65.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2024,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgZh/202409/c_9511762437271_b5da9b65.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/202409/c_9511762437271_b5da9b65.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/202409/c_9511762437271_b5da9b65.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "翠光密林",
+            "game_hotness_value": 97037.0,
+            "sales_mode_id": 0,
+            "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/202409/c_5058762437271_2cbf417e.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 46120,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202506/c_9563783998471_99b01c58.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2026,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 311,
+            "expansion_type": 0,
+            "width_height": 0.904,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202506/c_9563783998471_99b01c58.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202506/c_9563783998471_99b01c58.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202506/c_9563783998471_99b01c58.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.904
+            },
+            "status_content": {
+              "id": 311,
+              "value": "已发布"
+            },
+            "name": "北京",
+            "game_hotness_value": 9067.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/20191010/1571112617770983843.jpg",
+            "primary_language": "ENG",
+            "id": 1048,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20191010/1571112722219195043.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2013,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 0.71,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgZh/20191010/1571112722219195043.png",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/20191010/1571112722219195043.png",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20191010/1571112722219195043.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.71
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "玻璃之路",
+            "game_hotness_value": 52437.0,
+            "sales_mode_id": 0,
+            "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/20191010/1571112617770983843.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 24691,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202010/c_9260376513061_ac438cab.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2020,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202010/c_9260376513061_ac438cab.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202010/c_9260376513061_ac438cab.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202010/c_9260376513061_ac438cab.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "故宫：豪华版",
+            "game_hotness_value": 23391.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "https://oss.gstonegames.com/static/image/gameimgEh/202103/c_8204418484161_8278d829.jpg",
+            "primary_language": "ENG",
+            "id": 26877,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202103/c_3181418484161_4582b24f.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2021,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 0.708,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202103/c_3181418484161_4582b24f.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202103/c_3181418484161_4582b24f.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202103/c_3181418484161_4582b24f.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.708
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "玻璃之路 (2021)",
+            "game_hotness_value": 5342.0,
+            "sales_mode_id": 0,
+            "box_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202103/c_8204418484161_8278d829.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 29786,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202108/c_5183746929261_fb56c772.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2021,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 1.0,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202108/c_5183746929261_fb56c772.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202108/c_5183746929261_fb56c772.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202108/c_5183746929261_fb56c772.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 1.0
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "Settlement",
+            "game_hotness_value": 4378.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg",
+            "primary_language": "ENG",
+            "id": 668,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/pic11768941507444917351.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2011,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 0.716,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/pic11768941507444917351.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.845
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "勃根地城堡",
+            "game_hotness_value": 526170.0,
+            "sales_mode_id": 0,
+            "box_url_s": "https://oss.gstonegames.com/static/image/gameimgZh/TB2YqGzAbJmpuFjSZFwXXaE4VXa_!!65847459 (1)1507523809328.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_month": 0
+          },
+          {
+            "is_mm": 0,
+            "sub_category": "[]",
+            "is_expansion": 0,
+            "mod_type": 1,
+            "is_pg": 0,
+            "box_url": "",
+            "primary_language": "ENG",
+            "id": 20353,
+            "cover_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202009/c_1410887120061_81ec6985.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+            "publish_year": 2020,
+            "sales_mode": {
+              "id": 0,
+              "value": ""
+            },
+            "status": 310,
+            "expansion_type": 0,
+            "width_height": 0.708,
+            "is_glight": 0,
+            "cover_url": "https://oss.gstonegames.com/static/image/gameimgEh/202009/c_1410887120061_81ec6985.jpg",
+            "first_picture": {
+              "picture_url": "https://oss.gstonegames.com/static/image/gameimgEh/202009/c_1410887120061_81ec6985.jpg",
+              "picture_url_s": "https://oss.gstonegames.com/static/image/gameimgEh/202009/c_1410887120061_81ec6985.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_512/quality,q_100",
+              "width_height": 0.708
+            },
+            "status_content": {
+              "id": 310,
+              "value": "已出版"
+            },
+            "name": "托斯卡纳城堡：豪华版",
+            "game_hotness_value": 70921.0,
+            "sales_mode_id": 0,
+            "box_url_s": "",
+            "publish_month": 0
+          }
+        ],
+        "num": 10
+      },
+      "publish_month": 0
+    }
+  }
+}

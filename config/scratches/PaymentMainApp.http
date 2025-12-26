@@ -1,0 +1,16 @@
+POST http://localhost:8008/rest/api/payment/checkout/sessions
+
+###
+
+GET http://localhost:8008/rest/api/payment/paymentIntents/pi_3PmTQnCgaUm2LFbt1YM6zPc5
+
+<> 2024-08-11T173618.200.json
+
+
+
+###
+
+GET http://localhost:8008/rest/api/payment/paymentIntents/{paymentIntentId}
+
+###
+
