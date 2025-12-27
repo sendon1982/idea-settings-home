@@ -1,1 +1,0 @@
-//file is use to initialize plugins in typescript service before working with other things
