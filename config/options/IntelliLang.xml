@@ -1,9 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="JSON" injector-id="java">
-      <display-name>PrintWriter.write (java.io)</display-name>
-      <single-file value="false" />
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("write").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
-    </injection>
-  </component>
-</application>

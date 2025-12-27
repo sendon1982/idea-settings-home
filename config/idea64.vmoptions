@@ -1,7 +1,0 @@
--javaagent:/home/mjiang/.config/JetBrains/IntelliJIdea2025.3/JetBrains/active-agt.jar
---add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
---add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
--Xmx3913m
--Dide.managed.by.toolbox=/home/mjiang/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
--Dtoolbox.notification.token=3b99cb8d-62c1-4d40-8c33-ec8cfd2c62c1
--Dtoolbox.notification.portFile=/home/mjiang/.cache/JetBrains/Toolbox/ports/586d90bf-dc40-4e96-942c-92279839b25e.port

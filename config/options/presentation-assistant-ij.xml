@@ -1,7 +1,0 @@
-<application>
-  <component name="PresentationAssistantIJ">
-    <option name="popupDuration" value="1000" />
-    <option name="popupSize" value="0" />
-    <option name="showActionDescriptions" value="true" />
-  </component>
-</application>

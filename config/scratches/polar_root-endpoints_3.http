@@ -1,5 +1,0 @@
-###
-POST http://localhost:8008/create-checkout-session
-
-###
-POST http://localhost:8008/create-checkout-session

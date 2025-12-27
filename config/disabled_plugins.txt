@@ -1,7 +1,0 @@
-Dart
-com.github.hayoi.haystack
-com.localizely.flutter-intl
-com.ruiyu.ruiyu
-com.tabnine.TabNine
-com.weebly.opus1269.smoothscroller
-io.flutter
